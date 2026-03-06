@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "cmmd9i9210005qaiorbj8rhw6",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "year": "2,5 milhões de anos atrás",
+    "event": "Aparecimento dos primeiros hominídeos",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.882Z",
+    "updatedAt": "2026-03-05T09:27:29.882Z"
+  },
+  {
+    "id": "cmmd9i92a000kqaioy2ka2aqw",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "year": "12.000 a.C.",
+    "event": "Chegada dos primeiros humanos ao Brasil",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.890Z",
+    "updatedAt": "2026-03-05T09:27:29.890Z"
+  },
+  {
+    "id": "cmmd9i92i000zqaio9rimhp4h",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "year": "200 a.C.",
+    "event": "Apogeu da civilização maia",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.898Z",
+    "updatedAt": "2026-03-05T09:27:29.898Z"
+  },
+  {
+    "id": "cmmd9i92p001eqaiokmz1kx4q",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "year": "3500 a.C.",
+    "event": "Invenção da escrita cuneiforme",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.906Z",
+    "updatedAt": "2026-03-05T09:27:29.906Z"
+  },
+  {
+    "id": "cmmd9i92w001tqaiojg4a4kl0",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "year": "776 a.C.",
+    "event": "Primeiros Jogos Olímpicos",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.913Z",
+    "updatedAt": "2026-03-05T09:27:29.913Z"
+  },
+  {
+    "id": "cmmd9i9330028qaioo8ik76qn",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "year": "753 a.C.",
+    "event": "Fundação lendária de Roma",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.919Z",
+    "updatedAt": "2026-03-05T09:27:29.919Z"
+  },
+  {
+    "id": "cmmd9i939002nqaiodr70usky",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "year": "Século V",
+    "event": "Início da Idade Média e feudalismo",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.926Z",
+    "updatedAt": "2026-03-05T09:27:29.926Z"
+  },
+  {
+    "id": "cmmd9i93f0032qaioxbouf6io",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "year": "1096",
+    "event": "Primeira Cruzada",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.932Z",
+    "updatedAt": "2026-03-05T09:27:29.932Z"
+  },
+  {
+    "id": "cmmd9i93n003hqaioa3g8g9br",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "year": "Século XI",
+    "event": "Início do renascimento comercial",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.940Z",
+    "updatedAt": "2026-03-05T09:27:29.940Z"
+  },
+  {
+    "id": "cmmd9i93v003wqaiov76fe5np",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "year": "Século XIV",
+    "event": "Início do Renascimento na Itália",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.947Z",
+    "updatedAt": "2026-03-05T09:27:29.947Z"
+  },
+  {
+    "id": "cmmd9i941004bqaio07jihj81",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "year": "1517",
+    "event": "Lutero afixa as 95 Teses",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.953Z",
+    "updatedAt": "2026-03-05T09:27:29.953Z"
+  },
+  {
+    "id": "cmmd9i946004qqaiop73sjtge",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "year": "Século XVI",
+    "event": "Consolidação do absolutismo",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.959Z",
+    "updatedAt": "2026-03-05T09:27:29.959Z"
+  },
+  {
+    "id": "cmmd9i94c0055qaiorppktphx",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "year": "1415",
+    "event": "Conquista de Ceuta",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.964Z",
+    "updatedAt": "2026-03-05T09:27:29.964Z"
+  },
+  {
+    "id": "cmmd9i94i005kqaioqmqgr26n",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "year": "1690",
+    "event": "Locke publica Dois Tratados sobre o Governo",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.970Z",
+    "updatedAt": "2026-03-05T09:27:29.970Z"
+  },
+  {
+    "id": "cmmd9i94n005zqaio3ytov8jp",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "year": "1789",
+    "event": "Queda da Bastilha",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.975Z",
+    "updatedAt": "2026-03-05T09:27:29.975Z"
+  },
+  {
+    "id": "cmmd9i94u006eqaioolypab76",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "year": "1769",
+    "event": "Patente da máquina a vapor de Watt",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.983Z",
+    "updatedAt": "2026-03-05T09:27:29.983Z"
+  },
+  {
+    "id": "cmmd9i951006tqaio4m4zuxd1",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "year": "1789",
+    "event": "Inconfidência Mineira",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.989Z",
+    "updatedAt": "2026-03-05T09:27:29.989Z"
+  },
+  {
+    "id": "cmmd9i9550078qaiolk82i0tw",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "year": "1807",
+    "event": "Invasão de Portugal por Napoleão",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.994Z",
+    "updatedAt": "2026-03-05T09:27:29.994Z"
+  },
+  {
+    "id": "cmmd9i95a007nqaio4pkspmz9",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "year": "1822",
+    "event": "Independência do Brasil",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.998Z",
+    "updatedAt": "2026-03-05T09:27:29.998Z"
+  },
+  {
+    "id": "cmmd9i95g0082qaiolen6ugxi",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "year": "1840",
+    "event": "Declaração da Maioridade",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.004Z",
+    "updatedAt": "2026-03-05T09:27:30.004Z"
+  },
+  {
+    "id": "cmmd9i95l008hqaioa0noebqx",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "year": "1894",
+    "event": "Início da hegemonia cafeeira",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.009Z",
+    "updatedAt": "2026-03-05T09:27:30.009Z"
+  },
+  {
+    "id": "cmmd9i95p008wqaiodfimdbu6",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "year": "1893",
+    "event": "Fundação de Canudos",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.013Z",
+    "updatedAt": "2026-03-05T09:27:30.013Z"
+  },
+  {
+    "id": "cmmd9i95u009bqaiocildl5nu",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "year": "1929",
+    "event": "Crise econômica mundial",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.019Z",
+    "updatedAt": "2026-03-05T09:27:30.019Z"
+  },
+  {
+    "id": "cmmd9i95z009qqaiomw34sysj",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "year": "1937",
+    "event": "Golpe do Estado Novo",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.023Z",
+    "updatedAt": "2026-03-05T09:27:30.023Z"
+  },
+  {
+    "id": "cmmd9i96400a5qaio2bnnocv2",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "year": "1974",
+    "event": "Geisel inicia distensão",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.028Z",
+    "updatedAt": "2026-03-05T09:27:30.028Z"
+  },
+  {
+    "id": "cmmd9i96900akqaio1i18j2in",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "year": "1947",
+    "event": "Doutrina Truman e Plano Marshall",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.034Z",
+    "updatedAt": "2026-03-05T09:27:30.034Z"
+  },
+  {
+    "id": "cmmd9i96e00azqaiowbq1fuiz",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "year": "1991",
+    "event": "Fim da URSS - nova ordem mundial",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.038Z",
+    "updatedAt": "2026-03-05T09:27:30.038Z"
+  },
+  {
+    "id": "cmmd9i96i00beqaio9idhhvof",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "year": "1822",
+    "event": "Independência do Brasil",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.042Z",
+    "updatedAt": "2026-03-05T09:27:30.042Z"
+  },
+  {
+    "id": "cmmd9i96m00btqaiovzchp4x5",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "year": "1810",
+    "event": "Início das independências hispano-americanas",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.047Z",
+    "updatedAt": "2026-03-05T09:27:30.047Z"
+  },
+  {
+    "id": "cmmd9i96r00c8qaiop7o8ibmv",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "year": "1884-85",
+    "event": "Conferência de Berlim",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.051Z",
+    "updatedAt": "2026-03-05T09:27:30.051Z"
+  },
+  {
+    "id": "cmmdbhnqb0005qastvfedywq0",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "year": "1500",
+    "event": "Chegada dos portugueses ao Brasil",
+    "order": 1,
+    "createdAt": "2026-03-05T10:23:01.475Z",
+    "updatedAt": "2026-03-05T10:23:01.475Z"
+  },
+  {
+    "id": "cmmdbhnql000kqastskyiubqv",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "year": "1961",
+    "event": "Jango assume após renúncia de Jânio",
+    "order": 1,
+    "createdAt": "2026-03-05T10:23:01.485Z",
+    "updatedAt": "2026-03-05T10:23:01.485Z"
+  },
+  {
+    "id": "cmmdbhnqs000zqasthuebz2p9",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "year": "1914",
+    "event": "Início da Primeira Guerra",
+    "order": 1,
+    "createdAt": "2026-03-05T10:23:01.492Z",
+    "updatedAt": "2026-03-05T10:23:01.492Z"
+  },
+  {
+    "id": "cmmdbibod0005qatgrxmc0az3",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "year": "1945",
+    "event": "Congresso Pan-africano de Manchester",
+    "order": 1,
+    "createdAt": "2026-03-05T10:23:32.509Z",
+    "updatedAt": "2026-03-05T10:23:32.509Z"
+  },
+  {
+    "id": "cmmd9i9220006qaioq20gwy0j",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "year": "400.000 anos atrás",
+    "event": "Domínio do fogo pelo Homo erectus",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.882Z",
+    "updatedAt": "2026-03-05T09:27:29.882Z"
+  },
+  {
+    "id": "cmmd9i92a000lqaiom726fpmk",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "year": "1500",
+    "event": "Contato com os portugueses - cerca de 5 milhões de indígenas",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.891Z",
+    "updatedAt": "2026-03-05T09:27:29.891Z"
+  },
+  {
+    "id": "cmmd9i92i0010qaio6822jvj4",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "year": "Século XIII",
+    "event": "Fundação de Tenochtitlan pelos astecas",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.899Z",
+    "updatedAt": "2026-03-05T09:27:29.899Z"
+  },
+  {
+    "id": "cmmd9i92q001fqaio71qpw9v1",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "year": "3100 a.C.",
+    "event": "Unificação do Egito Antigo",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.906Z",
+    "updatedAt": "2026-03-05T09:27:29.906Z"
+  },
+  {
+    "id": "cmmd9i92x001uqaioz6aynobt",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "year": "508 a.C.",
+    "event": "Instituição da democracia em Atenas",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.913Z",
+    "updatedAt": "2026-03-05T09:27:29.913Z"
+  },
+  {
+    "id": "cmmd9i9330029qaio4u5rmqtd",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "year": "509 a.C.",
+    "event": "Início da República Romana",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.919Z",
+    "updatedAt": "2026-03-05T09:27:29.919Z"
+  },
+  {
+    "id": "cmmd9i93a002oqaionjuldmxy",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "year": "800",
+    "event": "Coroação de Carlos Magno",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.926Z",
+    "updatedAt": "2026-03-05T09:27:29.926Z"
+  },
+  {
+    "id": "cmmd9i93g0033qaiot3wxlbso",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "year": "1204",
+    "event": "Quarta Cruzada saqueia Constantinopla",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.932Z",
+    "updatedAt": "2026-03-05T09:27:29.932Z"
+  },
+  {
+    "id": "cmmd9i93o003iqaiopyvxujc2",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "year": "Século XII",
+    "event": "Surgimento das primeiras universidades",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.940Z",
+    "updatedAt": "2026-03-05T09:27:29.940Z"
+  },
+  {
+    "id": "cmmd9i93v003xqaiomyorl5ao",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "year": "1453",
+    "event": "Queda de Constantinopla - eruditos fogem para Itália",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.948Z",
+    "updatedAt": "2026-03-05T09:27:29.948Z"
+  },
+  {
+    "id": "cmmd9i941004cqaiosk8rxlox",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "year": "1521",
+    "event": "Excomunhão de Lutero",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.954Z",
+    "updatedAt": "2026-03-05T09:27:29.954Z"
+  },
+  {
+    "id": "cmmd9i947004rqaioh6yc3wvo",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "year": "1643-1715",
+    "event": "Reinado de Luís XIV",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.959Z",
+    "updatedAt": "2026-03-05T09:27:29.959Z"
+  },
+  {
+    "id": "cmmd9i94c0056qaiouap3b12t",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "year": "1488",
+    "event": "Bartolomeu Dias dobra o Cabo da Boa Esperança",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.964Z",
+    "updatedAt": "2026-03-05T09:27:29.964Z"
+  },
+  {
+    "id": "cmmd9i94i005lqaio5z0eyenp",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "year": "1748",
+    "event": "Montesquieu publica O Espírito das Leis",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.970Z",
+    "updatedAt": "2026-03-05T09:27:29.970Z"
+  },
+  {
+    "id": "cmmd9i94n0060qaionec3oodh",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "year": "1791",
+    "event": "Constituição civil do clero",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.976Z",
+    "updatedAt": "2026-03-05T09:27:29.976Z"
+  },
+  {
+    "id": "cmmd9i94v006fqaiovr4qemc7",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "year": "Século XVIII",
+    "event": "Primeira Revolução Industrial",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.983Z",
+    "updatedAt": "2026-03-05T09:27:29.983Z"
+  },
+  {
+    "id": "cmmd9i951006uqaiod3tt4pgl",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "year": "1792",
+    "event": "Execução de Tiradentes",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.989Z",
+    "updatedAt": "2026-03-05T09:27:29.989Z"
+  },
+  {
+    "id": "cmmd9i9560079qaiop332r3ye",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "year": "1808",
+    "event": "Chegada da Família Real ao Brasil",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.994Z",
+    "updatedAt": "2026-03-05T09:27:29.994Z"
+  },
+  {
+    "id": "cmmd9i95a007oqaiood98o6vs",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "year": "1824",
+    "event": "Constituição outorgada",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.999Z",
+    "updatedAt": "2026-03-05T09:27:29.999Z"
+  },
+  {
+    "id": "cmmd9i95g0083qaiorikfkw7d",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "year": "1850",
+    "event": "Fim do tráfico de escravos",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.005Z",
+    "updatedAt": "2026-03-05T09:27:30.005Z"
+  },
+  {
+    "id": "cmmd9i95l008iqaiow43v1iye",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "year": "1922",
+    "event": "Semana de Arte Moderna",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.009Z",
+    "updatedAt": "2026-03-05T09:27:30.009Z"
+  },
+  {
+    "id": "cmmd9i95p008xqaio0efr8fwg",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "year": "1897",
+    "event": "Destruição de Canudos",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.014Z",
+    "updatedAt": "2026-03-05T09:27:30.014Z"
+  },
+  {
+    "id": "cmmd9i95v009cqaio5pwidtq7",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "year": "1930",
+    "event": "Revolução de 1930",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.019Z",
+    "updatedAt": "2026-03-05T09:27:30.019Z"
+  },
+  {
+    "id": "cmmd9i95z009rqaiophe46zei",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "year": "1941",
+    "event": "Brasil na Segunda Guerra",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.024Z",
+    "updatedAt": "2026-03-05T09:27:30.024Z"
+  },
+  {
+    "id": "cmmd9i96400a6qaiooitjnmcc",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "year": "1979",
+    "event": "Lei da Anistia",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.028Z",
+    "updatedAt": "2026-03-05T09:27:30.028Z"
+  },
+  {
+    "id": "cmmd9i96a00alqaiofmza5qjs",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "year": "1961",
+    "event": "Construção do Muro de Berlim",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.034Z",
+    "updatedAt": "2026-03-05T09:27:30.034Z"
+  },
+  {
+    "id": "cmmd9i96e00b0qaioj6n3klqc",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "year": "1993",
+    "event": "Criação da União Europeia",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.039Z",
+    "updatedAt": "2026-03-05T09:27:30.039Z"
+  },
+  {
+    "id": "cmmd9i96i00bfqaioak2gxtvp",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "year": "1824",
+    "event": "Constituição outorgada",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.043Z",
+    "updatedAt": "2026-03-05T09:27:30.043Z"
+  },
+  {
+    "id": "cmmd9i96m00buqaiodee26xaz",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "year": "1824",
+    "event": "Batalha de Ayacucho - independência",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.047Z",
+    "updatedAt": "2026-03-05T09:27:30.047Z"
+  },
+  {
+    "id": "cmmd9i96r00c9qaiox3z0yaxf",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "year": "1957",
+    "event": "Independência de Gana",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.052Z",
+    "updatedAt": "2026-03-05T09:27:30.052Z"
+  },
+  {
+    "id": "cmmdbhnqc0006qast5p109ehy",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "year": "1534",
+    "event": "Criação das Capitanias Hereditárias",
+    "order": 2,
+    "createdAt": "2026-03-05T10:23:01.476Z",
+    "updatedAt": "2026-03-05T10:23:01.476Z"
+  },
+  {
+    "id": "cmmdbhnql000lqast8ukvc677",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "year": "1964",
+    "event": "Golpe militar",
+    "order": 2,
+    "createdAt": "2026-03-05T10:23:01.485Z",
+    "updatedAt": "2026-03-05T10:23:01.485Z"
+  },
+  {
+    "id": "cmmdbhnqs0010qast18sv4hwc",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "year": "1918",
+    "event": "Fim da Primeira Guerra",
+    "order": 2,
+    "createdAt": "2026-03-05T10:23:01.492Z",
+    "updatedAt": "2026-03-05T10:23:01.492Z"
+  },
+  {
+    "id": "cmmdbibod0006qatgah4i4mv0",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "year": "1957",
+    "event": "Independência de Gana",
+    "order": 2,
+    "createdAt": "2026-03-05T10:23:32.509Z",
+    "updatedAt": "2026-03-05T10:23:32.509Z"
+  },
+  {
+    "id": "cmmd9i9220007qaio9g590ti9",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "year": "40.000 anos atrás",
+    "event": "Chegada do Homo sapiens à América",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.883Z",
+    "updatedAt": "2026-03-05T09:27:29.883Z"
+  },
+  {
+    "id": "cmmd9i92b000mqaio02ed1ih5",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "year": "Século XVI",
+    "event": "Início do declínio populacional indígena",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.891Z",
+    "updatedAt": "2026-03-05T09:27:29.891Z"
+  },
+  {
+    "id": "cmmd9i92j0011qaioswm9pgd4",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "year": "1438",
+    "event": "Início do Império Inca",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.899Z",
+    "updatedAt": "2026-03-05T09:27:29.899Z"
+  },
+  {
+    "id": "cmmd9i92q001gqaioa7c267cc",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "year": "1792-1750 a.C.",
+    "event": "Reinado de Hamurabi na Babilônia",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.907Z",
+    "updatedAt": "2026-03-05T09:27:29.907Z"
+  },
+  {
+    "id": "cmmd9i92x001vqaiosyvouddi",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "year": "490 a.C.",
+    "event": "Batalha de Maratona",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.913Z",
+    "updatedAt": "2026-03-05T09:27:29.913Z"
+  },
+  {
+    "id": "cmmd9i933002aqaiol47yutey",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "year": "27 a.C.",
+    "event": "Augusto torna-se primeiro imperador",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.920Z",
+    "updatedAt": "2026-03-05T09:27:29.920Z"
+  },
+  {
+    "id": "cmmd9i93a002pqaiodxhnt5xw",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "year": "Século XI",
+    "event": "Início das Cruzadas",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.926Z",
+    "updatedAt": "2026-03-05T09:27:29.926Z"
+  },
+  {
+    "id": "cmmd9i93g0034qaiofmhln6fj",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "year": "1231",
+    "event": "Criação da Inquisição papal",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.933Z",
+    "updatedAt": "2026-03-05T09:27:29.933Z"
+  },
+  {
+    "id": "cmmd9i93p003jqaioiqdu9q8z",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "year": "1347",
+    "event": "Chegada da Peste Negra à Europa",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.942Z",
+    "updatedAt": "2026-03-05T09:27:29.942Z"
+  },
+  {
+    "id": "cmmd9i93w003yqaiorqxk9st8",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "year": "1498",
+    "event": "Última Ceia de Da Vinci",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.948Z",
+    "updatedAt": "2026-03-05T09:27:29.948Z"
+  },
+  {
+    "id": "cmmd9i942004dqaio0vyjc1ht",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "year": "1534",
+    "event": "Fundação da Companhia de Jesus",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.954Z",
+    "updatedAt": "2026-03-05T09:27:29.954Z"
+  },
+  {
+    "id": "cmmd9i947004sqaiogo4nlmwt",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "year": "1648",
+    "event": "Paz de Vestfália - soberania nacional",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.959Z",
+    "updatedAt": "2026-03-05T09:27:29.959Z"
+  },
+  {
+    "id": "cmmd9i94c0057qaiotfnjsca0",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "year": "1492",
+    "event": "Colombo chega à América",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.965Z",
+    "updatedAt": "2026-03-05T09:27:29.965Z"
+  },
+  {
+    "id": "cmmd9i94i005mqaiovt4xbl7n",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "year": "1751",
+    "event": "Início da publicação da Enciclopédia",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.971Z",
+    "updatedAt": "2026-03-05T09:27:29.971Z"
+  },
+  {
+    "id": "cmmd9i94n0061qaioiztzwd5n",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "year": "1793",
+    "event": "Execução de Luís XVI",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.976Z",
+    "updatedAt": "2026-03-05T09:27:29.976Z"
+  },
+  {
+    "id": "cmmd9i94v006gqaio8tlpruiw",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "year": "1848",
+    "event": "Manifesto Comunista de Marx e Engels",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.984Z",
+    "updatedAt": "2026-03-05T09:27:29.984Z"
+  },
+  {
+    "id": "cmmd9i951006vqaiovy2a1z5j",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "year": "1798",
+    "event": "Conjuração Baiana",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.990Z",
+    "updatedAt": "2026-03-05T09:27:29.990Z"
+  },
+  {
+    "id": "cmmd9i956007aqaiogpfutb1b",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "year": "1815",
+    "event": "Elevação a Reino Unido",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.994Z",
+    "updatedAt": "2026-03-05T09:27:29.994Z"
+  },
+  {
+    "id": "cmmd9i95a007pqaio9usvo2ay",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "year": "1825",
+    "event": "Reconhecimento por Portugal",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.999Z",
+    "updatedAt": "2026-03-05T09:27:29.999Z"
+  },
+  {
+    "id": "cmmd9i95g0084qaiolbzj8q6o",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "year": "1871",
+    "event": "Lei do Ventre Livre",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.005Z",
+    "updatedAt": "2026-03-05T09:27:30.005Z"
+  },
+  {
+    "id": "cmmd9i95l008jqaioo94biwu6",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "year": "1924",
+    "event": "Revolta Paulista",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.010Z",
+    "updatedAt": "2026-03-05T09:27:30.010Z"
+  },
+  {
+    "id": "cmmd9i95q008yqaiof17eszgh",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "year": "1904",
+    "event": "Revolta da Vacina",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.014Z",
+    "updatedAt": "2026-03-05T09:27:30.014Z"
+  },
+  {
+    "id": "cmmd9i95v009dqaio9krs9xdo",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "year": "1932",
+    "event": "Revolução Constitucionalista",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.019Z",
+    "updatedAt": "2026-03-05T09:27:30.019Z"
+  },
+  {
+    "id": "cmmd9i960009sqaiopana58l4",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "year": "1943",
+    "event": "Criação da CLT",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.024Z",
+    "updatedAt": "2026-03-05T09:27:30.024Z"
+  },
+  {
+    "id": "cmmd9i96400a7qaioalnlokb6",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "year": "1984",
+    "event": "Campanha das Diretas Já",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.029Z",
+    "updatedAt": "2026-03-05T09:27:30.029Z"
+  },
+  {
+    "id": "cmmd9i96a00amqaioigeeg87r",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "year": "1962",
+    "event": "Crise dos Mísseis",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.034Z",
+    "updatedAt": "2026-03-05T09:27:30.034Z"
+  },
+  {
+    "id": "cmmd9i96e00b1qaioiv60we2h",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "year": "1994",
+    "event": "Criação do MERCOSUL",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.039Z",
+    "updatedAt": "2026-03-05T09:27:30.039Z"
+  },
+  {
+    "id": "cmmd9i96i00bgqaioqnpjmtfu",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "year": "1825",
+    "event": "Reconhecimento por Portugal",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.043Z",
+    "updatedAt": "2026-03-05T09:27:30.043Z"
+  },
+  {
+    "id": "cmmd9i96n00bvqaio43zpg9pj",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "year": "1959",
+    "event": "Revolução Cubana",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.047Z",
+    "updatedAt": "2026-03-05T09:27:30.047Z"
+  },
+  {
+    "id": "cmmd9i96r00caqaioly8dzckk",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "year": "1960",
+    "event": "Ano da África - 17 independências",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.052Z",
+    "updatedAt": "2026-03-05T09:27:30.052Z"
+  },
+  {
+    "id": "cmmdbhnqc0007qast7fkx1ohf",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "year": "1549",
+    "event": "Criação do Governo-Geral",
+    "order": 3,
+    "createdAt": "2026-03-05T10:23:01.476Z",
+    "updatedAt": "2026-03-05T10:23:01.476Z"
+  },
+  {
+    "id": "cmmdbhnql000mqast16nviebo",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "year": "1968",
+    "event": "AI-5 - endurecimento do regime",
+    "order": 3,
+    "createdAt": "2026-03-05T10:23:01.486Z",
+    "updatedAt": "2026-03-05T10:23:01.486Z"
+  },
+  {
+    "id": "cmmdbhnqs0011qast2s7qwrzb",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "year": "1939",
+    "event": "Início da Segunda Guerra",
+    "order": 3,
+    "createdAt": "2026-03-05T10:23:01.493Z",
+    "updatedAt": "2026-03-05T10:23:01.493Z"
+  },
+  {
+    "id": "cmmdbiboe0007qatg13ftf9ud",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "year": "1960",
+    "event": "Ano da África - 17 independências",
+    "order": 3,
+    "createdAt": "2026-03-05T10:23:32.510Z",
+    "updatedAt": "2026-03-05T10:23:32.510Z"
+  },
+  {
+    "id": "cmmd9i9230008qaioar59wqt1",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "year": "10.000 a.C.",
+    "event": "Início da Revolução Neolítica",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.883Z",
+    "updatedAt": "2026-03-05T09:27:29.883Z"
+  },
+  {
+    "id": "cmmd9i92b000nqaioe4ydhn40",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "year": "2010",
+    "event": "Censo: 896 mil indígenas no Brasil",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.892Z",
+    "updatedAt": "2026-03-05T09:27:29.892Z"
+  },
+  {
+    "id": "cmmd9i92j0012qaioqh7wkhga",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "year": "1519",
+    "event": "Cortés chega ao México",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.900Z",
+    "updatedAt": "2026-03-05T09:27:29.900Z"
+  },
+  {
+    "id": "cmmd9i92r001hqaiohp6elji9",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "year": "2560 a.C.",
+    "event": "Construção da Grande Pirâmide de Gizé",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.907Z",
+    "updatedAt": "2026-03-05T09:27:29.907Z"
+  },
+  {
+    "id": "cmmd9i92x001wqaiorerq9dob",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "year": "336 a.C.",
+    "event": "Alexandre Magno torna-se rei",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.914Z",
+    "updatedAt": "2026-03-05T09:27:29.914Z"
+  },
+  {
+    "id": "cmmd9i934002bqaioak679nqi",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "year": "476 d.C.",
+    "event": "Queda do Império Romano do Ocidente",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.920Z",
+    "updatedAt": "2026-03-05T09:27:29.920Z"
+  },
+  {
+    "id": "cmmd9i93a002qqaioqgzdj9ml",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "year": "1347-1351",
+    "event": "Peste Negra na Europa",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.927Z",
+    "updatedAt": "2026-03-05T09:27:29.927Z"
+  },
+  {
+    "id": "cmmd9i93h0035qaiow0qbvpv1",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "year": "1291",
+    "event": "Queda de Acre - fim das Cruzadas",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.933Z",
+    "updatedAt": "2026-03-05T09:27:29.933Z"
+  },
+  {
+    "id": "cmmd9i93q003kqaio8h7hdcbf",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "year": "Século XIV",
+    "event": "Crise do feudalismo",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.942Z",
+    "updatedAt": "2026-03-05T09:27:29.942Z"
+  },
+  {
+    "id": "cmmd9i93w003zqaiogcvjw4q2",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "year": "1504",
+    "event": "Davi de Michelangelo",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.948Z",
+    "updatedAt": "2026-03-05T09:27:29.948Z"
+  },
+  {
+    "id": "cmmd9i942004eqaio6gbppx90",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "year": "1545-1563",
+    "event": "Concílio de Trento",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.954Z",
+    "updatedAt": "2026-03-05T09:27:29.954Z"
+  },
+  {
+    "id": "cmmd9i947004tqaioa2asnmjb",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "year": "1688",
+    "event": "Revolução Gloriosa na Inglaterra",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.960Z",
+    "updatedAt": "2026-03-05T09:27:29.960Z"
+  },
+  {
+    "id": "cmmd9i94c0058qaioc1hs0or4",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "year": "1494",
+    "event": "Tratado de Tordesilhas",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.965Z",
+    "updatedAt": "2026-03-05T09:27:29.965Z"
+  },
+  {
+    "id": "cmmd9i94i005nqaioy4ywe2iu",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "year": "1762",
+    "event": "Rousseau publica O Contrato Social",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.971Z",
+    "updatedAt": "2026-03-05T09:27:29.971Z"
+  },
+  {
+    "id": "cmmd9i94o0062qaiov9bzn1z0",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "year": "1799",
+    "event": "Golpe de Napoleão",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.976Z",
+    "updatedAt": "2026-03-05T09:27:29.976Z"
+  },
+  {
+    "id": "cmmd9i94v006hqaiob5g2l560",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "year": "Século XIX",
+    "event": "Segunda Revolução Industrial",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.984Z",
+    "updatedAt": "2026-03-05T09:27:29.984Z"
+  },
+  {
+    "id": "cmmd9i951006wqaiog90by75q",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "year": "1808",
+    "event": "Chegada da Família Real",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.990Z",
+    "updatedAt": "2026-03-05T09:27:29.990Z"
+  },
+  {
+    "id": "cmmd9i956007bqaiou68pbyym",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "year": "1821",
+    "event": "Retorno de D. João VI a Portugal",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.995Z",
+    "updatedAt": "2026-03-05T09:27:29.995Z"
+  },
+  {
+    "id": "cmmd9i95b007qqaiobbf96xtt",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "year": "1831",
+    "event": "Abdicação de D. Pedro I",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.999Z",
+    "updatedAt": "2026-03-05T09:27:29.999Z"
+  },
+  {
+    "id": "cmmd9i95h0085qaiobp0bvfi2",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "year": "1888",
+    "event": "Abolição da escravidão",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.005Z",
+    "updatedAt": "2026-03-05T09:27:30.005Z"
+  },
+  {
+    "id": "cmmd9i95l008kqaiouub563na",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "year": "1929",
+    "event": "Quebra da Bolsa de Nova York",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.010Z",
+    "updatedAt": "2026-03-05T09:27:30.010Z"
+  },
+  {
+    "id": "cmmd9i95q008zqaiol3twrgow",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "year": "1910",
+    "event": "Revolta da Chibata",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.014Z",
+    "updatedAt": "2026-03-05T09:27:30.014Z"
+  },
+  {
+    "id": "cmmd9i95v009eqaio2zknk4bq",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "year": "1934",
+    "event": "Constituição",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.020Z",
+    "updatedAt": "2026-03-05T09:27:30.020Z"
+  },
+  {
+    "id": "cmmd9i960009tqaio6mgp0jr7",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "year": "1945",
+    "event": "Queda de Vargas",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.024Z",
+    "updatedAt": "2026-03-05T09:27:30.024Z"
+  },
+  {
+    "id": "cmmd9i96400a8qaioy4b110l5",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "year": "1985",
+    "event": "Morte de Tancredo Neves",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.029Z",
+    "updatedAt": "2026-03-05T09:27:30.029Z"
+  },
+  {
+    "id": "cmmd9i96a00anqaio7e8a4qds",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "year": "1989",
+    "event": "Queda do Muro de Berlim",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.035Z",
+    "updatedAt": "2026-03-05T09:27:30.035Z"
+  },
+  {
+    "id": "cmmd9i96f00b2qaioep6jv8u7",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "year": "2001",
+    "event": "Ataques de 11 de setembro",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.039Z",
+    "updatedAt": "2026-03-05T09:27:30.039Z"
+  },
+  {
+    "id": "cmmd9i96j00bhqaiokwjj9szj",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "year": "1831",
+    "event": "Abdicação de D. Pedro I",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.043Z",
+    "updatedAt": "2026-03-05T09:27:30.043Z"
+  },
+  {
+    "id": "cmmd9i96n00bwqaioi5ypb3t1",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "year": "1973",
+    "event": "Golpe no Chile",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.047Z",
+    "updatedAt": "2026-03-05T09:27:30.047Z"
+  },
+  {
+    "id": "cmmd9i96s00cbqaio0wf7ais0",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "year": "1994",
+    "event": "Fim do apartheid",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.052Z",
+    "updatedAt": "2026-03-05T09:27:30.052Z"
+  },
+  {
+    "id": "cmmdbhnqd0008qasturpfp51g",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "year": "1570",
+    "event": "Apogeu da produção de açúcar",
+    "order": 4,
+    "createdAt": "2026-03-05T10:23:01.477Z",
+    "updatedAt": "2026-03-05T10:23:01.477Z"
+  },
+  {
+    "id": "cmmdbhnqm000nqastjh94rtol",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "year": "1979",
+    "event": "Lei da Anistia",
+    "order": 4,
+    "createdAt": "2026-03-05T10:23:01.486Z",
+    "updatedAt": "2026-03-05T10:23:01.486Z"
+  },
+  {
+    "id": "cmmdbhnqt0012qast8jewnfxm",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "year": "1945",
+    "event": "Fim da Segunda Guerra",
+    "order": 4,
+    "createdAt": "2026-03-05T10:23:01.493Z",
+    "updatedAt": "2026-03-05T10:23:01.493Z"
+  },
+  {
+    "id": "cmmdbiboe0008qatg9482zil3",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "year": "1990",
+    "event": "Libertação de Mandela",
+    "order": 4,
+    "createdAt": "2026-03-05T10:23:32.510Z",
+    "updatedAt": "2026-03-05T10:23:32.510Z"
+  },
+  {
+    "id": "cmmd9i9230009qaio73r17zcf",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "year": "3.000 a.C.",
+    "event": "Invenção da escrita - fim da Pré-História",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.883Z",
+    "updatedAt": "2026-03-05T09:27:29.883Z"
+  },
+  {
+    "id": "cmmd9i92c000oqaioglbeh894",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "year": "2023",
+    "event": "Reconhecimento de 724 terras indígenas",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.892Z",
+    "updatedAt": "2026-03-05T09:27:29.892Z"
+  },
+  {
+    "id": "cmmd9i92j0013qaiokykc4qql",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "year": "1533",
+    "event": "Pizarro conquista o Império Inca",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.900Z",
+    "updatedAt": "2026-03-05T09:27:29.900Z"
+  },
+  {
+    "id": "cmmd9i92r001iqaiom3rwfe76",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "year": "539 a.C.",
+    "event": "Queda da Babilônia para os persas",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.908Z",
+    "updatedAt": "2026-03-05T09:27:29.908Z"
+  },
+  {
+    "id": "cmmd9i92y001xqaioz3mectps",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "year": "146 a.C.",
+    "event": "Grécia dominada por Roma",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.914Z",
+    "updatedAt": "2026-03-05T09:27:29.914Z"
+  },
+  {
+    "id": "cmmd9i934002cqaioh816vuz7",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "year": "1453",
+    "event": "Queda de Constantinopla",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.921Z",
+    "updatedAt": "2026-03-05T09:27:29.921Z"
+  },
+  {
+    "id": "cmmd9i93b002rqaioen7rf3qm",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "year": "Século XV",
+    "event": "Declínio do feudalismo",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.927Z",
+    "updatedAt": "2026-03-05T09:27:29.927Z"
+  },
+  {
+    "id": "cmmd9i93h0036qaiowbv9bere",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "year": "1517",
+    "event": "Reforma Protestante",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.933Z",
+    "updatedAt": "2026-03-05T09:27:29.933Z"
+  },
+  {
+    "id": "cmmd9i93q003lqaiordpvq3je",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "year": "1453",
+    "event": "Queda de Constantinopla",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.942Z",
+    "updatedAt": "2026-03-05T09:27:29.942Z"
+  },
+  {
+    "id": "cmmd9i93w0040qaio1xuu9tww",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "year": "Século XVI",
+    "event": "Renascimento se espalha pela Europa",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.949Z",
+    "updatedAt": "2026-03-05T09:27:29.949Z"
+  },
+  {
+    "id": "cmmd9i942004fqaiofq7l2i4z",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "year": "1555",
+    "event": "Paz de Augsburgo",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.955Z",
+    "updatedAt": "2026-03-05T09:27:29.955Z"
+  },
+  {
+    "id": "cmmd9i948004uqaiogy2qo4s4",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "year": "1789",
+    "event": "Revolução Francesa - fim do absolutismo",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.960Z",
+    "updatedAt": "2026-03-05T09:27:29.960Z"
+  },
+  {
+    "id": "cmmd9i94d0059qaionxu2rkuy",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "year": "1500",
+    "event": "Cabral chega ao Brasil",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.965Z",
+    "updatedAt": "2026-03-05T09:27:29.965Z"
+  },
+  {
+    "id": "cmmd9i94j005oqaiohtm47o52",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "year": "1776",
+    "event": "Declaração de Independência dos EUA",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.971Z",
+    "updatedAt": "2026-03-05T09:27:29.971Z"
+  },
+  {
+    "id": "cmmd9i94o0063qaiog21au0ef",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "year": "1804",
+    "event": "Coroação de Napoleão",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.977Z",
+    "updatedAt": "2026-03-05T09:27:29.977Z"
+  },
+  {
+    "id": "cmmd9i94w006iqaiow3adhid6",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "year": "Século XX",
+    "event": "Terceira Revolução Industrial",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.984Z",
+    "updatedAt": "2026-03-05T09:27:29.984Z"
+  },
+  {
+    "id": "cmmd9i952006xqaio1duh2mcn",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "year": "1822",
+    "event": "Independência",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.990Z",
+    "updatedAt": "2026-03-05T09:27:29.990Z"
+  },
+  {
+    "id": "cmmd9i956007cqaiov99zcauq",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "year": "1822",
+    "event": "Independência",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.995Z",
+    "updatedAt": "2026-03-05T09:27:29.995Z"
+  },
+  {
+    "id": "cmmd9i95b007rqaioh6wjerar",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "year": "1840",
+    "event": "Maioridade de D. Pedro II",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.999Z",
+    "updatedAt": "2026-03-05T09:27:29.999Z"
+  },
+  {
+    "id": "cmmd9i95h0086qaio2ums3erc",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "year": "1889",
+    "event": "Proclamação da República",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.006Z",
+    "updatedAt": "2026-03-05T09:27:30.006Z"
+  },
+  {
+    "id": "cmmd9i95m008lqaioi2eyk28r",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "year": "1930",
+    "event": "Revolução de 1930",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.010Z",
+    "updatedAt": "2026-03-05T09:27:30.010Z"
+  },
+  {
+    "id": "cmmd9i95q0090qaio61s0byy8",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "year": "1938",
+    "event": "Morte de Lampião",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.014Z",
+    "updatedAt": "2026-03-05T09:27:30.014Z"
+  },
+  {
+    "id": "cmmd9i95v009fqaiock58g6eh",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "year": "1937",
+    "event": "Golpe do Estado Novo",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.020Z",
+    "updatedAt": "2026-03-05T09:27:30.020Z"
+  },
+  {
+    "id": "cmmd9i960009uqaiokaj0vhi9",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "year": "1950",
+    "event": "Vargas eleito democraticamente",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.025Z",
+    "updatedAt": "2026-03-05T09:27:30.025Z"
+  },
+  {
+    "id": "cmmd9i96500a9qaioexuzotqn",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "year": "1988",
+    "event": "Constituição Cidadã",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.029Z",
+    "updatedAt": "2026-03-05T09:27:30.029Z"
+  },
+  {
+    "id": "cmmd9i96a00aoqaiobmt8dml2",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "year": "1991",
+    "event": "Dissolução da URSS",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.035Z",
+    "updatedAt": "2026-03-05T09:27:30.035Z"
+  },
+  {
+    "id": "cmmd9i96f00b3qaionaal70fc",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "year": "2008",
+    "event": "Crise financeira global",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.039Z",
+    "updatedAt": "2026-03-05T09:27:30.039Z"
+  },
+  {
+    "id": "cmmd9i96j00biqaiofs4fma02",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "year": "1840",
+    "event": "Maioridade de D. Pedro II",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.043Z",
+    "updatedAt": "2026-03-05T09:27:30.043Z"
+  },
+  {
+    "id": "cmmd9i96n00bxqaion4r39t3u",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "year": "1989",
+    "event": "Queda do Muro - fim das ditaduras",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.048Z",
+    "updatedAt": "2026-03-05T09:27:30.048Z"
+  },
+  {
+    "id": "cmmd9i96s00ccqaion9h2t641",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "year": "2011",
+    "event": "Independência do Sudão do Sul",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.052Z",
+    "updatedAt": "2026-03-05T09:27:30.052Z"
+  },
+  {
+    "id": "cmmdbhnqd0009qast6zvkx8it",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "year": "1630-1654",
+    "event": "Domínio holandês no Nordeste",
+    "order": 5,
+    "createdAt": "2026-03-05T10:23:01.477Z",
+    "updatedAt": "2026-03-05T10:23:01.477Z"
+  },
+  {
+    "id": "cmmdbhnqm000oqastxjnndkti",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "year": "1985",
+    "event": "Fim do regime militar",
+    "order": 5,
+    "createdAt": "2026-03-05T10:23:01.487Z",
+    "updatedAt": "2026-03-05T10:23:01.487Z"
+  },
+  {
+    "id": "cmmdbhnqt0013qastk3zuc6ke",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "year": "1945",
+    "event": "Criação da ONU",
+    "order": 5,
+    "createdAt": "2026-03-05T10:23:01.494Z",
+    "updatedAt": "2026-03-05T10:23:01.494Z"
+  },
+  {
+    "id": "cmmdbiboe0009qatgta983mrg",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "year": "1994",
+    "event": "Fim do apartheid",
+    "order": 5,
+    "createdAt": "2026-03-05T10:23:32.511Z",
+    "updatedAt": "2026-03-05T10:23:32.511Z"
+  }
+]

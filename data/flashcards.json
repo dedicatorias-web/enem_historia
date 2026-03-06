@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "cmmd9i91y0000qaioyf5qiozg",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "front": "Paleolítico",
+    "back": "Idade da Pedra Lascada, período nômade de caça e coleta",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.879Z",
+    "updatedAt": "2026-03-05T09:27:29.879Z"
+  },
+  {
+    "id": "cmmd9i927000fqaiopc47v2tc",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "front": "Tupi",
+    "back": "Principal tronco linguístico indígena do litoral brasileiro",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.887Z",
+    "updatedAt": "2026-03-05T09:27:29.887Z"
+  },
+  {
+    "id": "cmmd9i92g000uqaion2yrhgjh",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "front": "Maias",
+    "back": "Civilização mesoamericana com calendário avançado e escrita",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.897Z",
+    "updatedAt": "2026-03-05T09:27:29.897Z"
+  },
+  {
+    "id": "cmmd9i92n0019qaiokw8bmjbk",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "front": "Mesopotâmia",
+    "back": "Região entre rios Tigre e Eufrates",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.903Z",
+    "updatedAt": "2026-03-05T09:27:29.903Z"
+  },
+  {
+    "id": "cmmd9i92u001oqaiol3nb11rn",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "front": "Pólis",
+    "back": "Cidade-estado grega",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.911Z",
+    "updatedAt": "2026-03-05T09:27:29.911Z"
+  },
+  {
+    "id": "cmmd9i9310023qaio4kdpn9n5",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "front": "República Romana",
+    "back": "Período de governo com Senado e magistrados",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.917Z",
+    "updatedAt": "2026-03-05T09:27:29.917Z"
+  },
+  {
+    "id": "cmmd9i938002iqaionqcc3exn",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "front": "Feudo",
+    "back": "Terra concedida pelo senhor ao vassalo",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.924Z",
+    "updatedAt": "2026-03-05T09:27:29.924Z"
+  },
+  {
+    "id": "cmmd9i93e002xqaionndbr46p",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "front": "Cruzadas",
+    "back": "Expedições militares para retomar a Terra Santa",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.930Z",
+    "updatedAt": "2026-03-05T09:27:29.930Z"
+  },
+  {
+    "id": "cmmd9i93l003cqaiob1nplk9b",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "front": "Renascimento Comercial",
+    "back": "Retomada do comércio na Europa medieval",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.938Z",
+    "updatedAt": "2026-03-05T09:27:29.938Z"
+  },
+  {
+    "id": "cmmd9i93t003rqaiokskhcu5q",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "front": "Humanismo",
+    "back": "Valorização do ser humano e da razão",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.945Z",
+    "updatedAt": "2026-03-05T09:27:29.945Z"
+  },
+  {
+    "id": "cmmd9i93z0046qaio1teda9wk",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "front": "Martinho Lutero",
+    "back": "Iniciador da Reforma Protestante em 1517",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.951Z",
+    "updatedAt": "2026-03-05T09:27:29.951Z"
+  },
+  {
+    "id": "cmmd9i945004lqaio8zhhmkra",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "front": "Absolutismo",
+    "back": "Poder ilimitado nas mãos do rei",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.957Z",
+    "updatedAt": "2026-03-05T09:27:29.957Z"
+  },
+  {
+    "id": "cmmd9i94a0050qaiophrp1spr",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "front": "Escola de Sagres",
+    "back": "Centro de estudos náuticos portugueses",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.963Z",
+    "updatedAt": "2026-03-05T09:27:29.963Z"
+  },
+  {
+    "id": "cmmd9i94f005fqaiol7l21fpv",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "front": "Iluminismo",
+    "back": "Movimento intelectual que valorizava a razão",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.968Z",
+    "updatedAt": "2026-03-05T09:27:29.968Z"
+  },
+  {
+    "id": "cmmd9i94l005uqaioulx7ddh8",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "front": "Queda da Bastilha",
+    "back": "14 de julho de 1789 - início da Revolução",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.974Z",
+    "updatedAt": "2026-03-05T09:27:29.974Z"
+  },
+  {
+    "id": "cmmd9i94q0069qaioepg3exje",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "front": "Revolução Industrial",
+    "back": "Transição para produção mecanizada em fábricas",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.979Z",
+    "updatedAt": "2026-03-05T09:27:29.979Z"
+  },
+  {
+    "id": "cmmd9i94z006oqaiopdhgye54",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "front": "Tiradentes",
+    "back": "Líder da Inconfidência Mineira",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.988Z",
+    "updatedAt": "2026-03-05T09:27:29.988Z"
+  },
+  {
+    "id": "cmmd9i9540073qaior8jlt138",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "front": "D. João VI",
+    "back": "Rei que trouxe a Corte para o Brasil",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.992Z",
+    "updatedAt": "2026-03-05T09:27:29.992Z"
+  },
+  {
+    "id": "cmmd9i959007iqaioz9uingt9",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "front": "Grito do Ipiranga",
+    "back": "7 de setembro de 1822 - Independência",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.997Z",
+    "updatedAt": "2026-03-05T09:27:29.997Z"
+  },
+  {
+    "id": "cmmd9i95e007xqaioq00sznsj",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "front": "D. Pedro II",
+    "back": "Segundo e último imperador do Brasil",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.003Z",
+    "updatedAt": "2026-03-05T09:27:30.003Z"
+  },
+  {
+    "id": "cmmd9i95j008cqaioqaghy33d",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "front": "Política do Café com Leite",
+    "back": "Alternância entre SP e MG na presidência",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.008Z",
+    "updatedAt": "2026-03-05T09:27:30.008Z"
+  },
+  {
+    "id": "cmmd9i95n008rqaioiclsqjyq",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "front": "Canudos",
+    "back": "Arraial de Antônio Conselheiro destruído em 1897",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.012Z",
+    "updatedAt": "2026-03-05T09:27:30.012Z"
+  },
+  {
+    "id": "cmmd9i95t0096qaior3iesww8",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "front": "Revolução de 1930",
+    "back": "Fim da República Velha",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.017Z",
+    "updatedAt": "2026-03-05T09:27:30.017Z"
+  },
+  {
+    "id": "cmmd9i95x009lqaiowym276vq",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "front": "Estado Novo",
+    "back": "Ditadura de Vargas (1937-1945)",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.022Z",
+    "updatedAt": "2026-03-05T09:27:30.022Z"
+  },
+  {
+    "id": "cmmd9i96200a0qaiofzmxdcrh",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "front": "Distensão",
+    "back": "Abertura lenta, gradual e segura",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.026Z",
+    "updatedAt": "2026-03-05T09:27:30.026Z"
+  },
+  {
+    "id": "cmmd9i96700afqaio1pkezz6b",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "front": "Guerra Fria",
+    "back": "Disputa entre EUA e URSS (1947-1991)",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.031Z",
+    "updatedAt": "2026-03-05T09:27:30.031Z"
+  },
+  {
+    "id": "cmmd9i96c00auqaiom7jac4u8",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "front": "Globalização",
+    "back": "Integração econômica e cultural mundial",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.037Z",
+    "updatedAt": "2026-03-05T09:27:30.037Z"
+  },
+  {
+    "id": "cmmd9i96h00b9qaiog5eazgp7",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "front": "Grito do Ipiranga",
+    "back": "7 de setembro de 1822 - Independência",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.041Z",
+    "updatedAt": "2026-03-05T09:27:30.041Z"
+  },
+  {
+    "id": "cmmd9i96l00boqaion5cufy8s",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "front": "Simón Bolívar",
+    "back": "Libertador do norte da América do Sul",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.045Z",
+    "updatedAt": "2026-03-05T09:27:30.045Z"
+  },
+  {
+    "id": "cmmd9i96q00c3qaiox6ipl5my",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "front": "Partilha da África",
+    "back": "Divisão do continente em 1884-85",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.050Z",
+    "updatedAt": "2026-03-05T09:27:30.050Z"
+  },
+  {
+    "id": "cmmdbhnq80000qast6mkfzew8",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "front": "Pau-brasil",
+    "back": "Primeira riqueza explorada no Brasil",
+    "order": 1,
+    "createdAt": "2026-03-05T10:23:01.473Z",
+    "updatedAt": "2026-03-05T10:23:01.473Z"
+  },
+  {
+    "id": "cmmdbhnqh000fqast9ifm504i",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "front": "Golpe de 1964",
+    "back": "Derrubada do presidente João Goulart",
+    "order": 1,
+    "createdAt": "2026-03-05T10:23:01.482Z",
+    "updatedAt": "2026-03-05T10:23:01.482Z"
+  },
+  {
+    "id": "cmmdbhnqq000uqast0lkbsgl9",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "front": "Primeira Guerra",
+    "back": "1914-1918 - conflito na Europa",
+    "order": 1,
+    "createdAt": "2026-03-05T10:23:01.490Z",
+    "updatedAt": "2026-03-05T10:23:01.490Z"
+  },
+  {
+    "id": "cmmdbiboa0000qatgcmgeo1b3",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "front": "Pan-africanismo",
+    "back": "Movimento de unidade africana",
+    "order": 1,
+    "createdAt": "2026-03-05T10:23:32.507Z",
+    "updatedAt": "2026-03-05T10:23:32.507Z"
+  },
+  {
+    "id": "cmmd9i91z0001qaiothsa4ym1",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "front": "Neolítico",
+    "back": "Idade da Pedra Polida, surgimento da agricultura e sedentarização",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.879Z",
+    "updatedAt": "2026-03-05T09:27:29.879Z"
+  },
+  {
+    "id": "cmmd9i927000gqaionkzk2snb",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "front": "Jê/Tapuia",
+    "back": "Tronco linguístico do interior e sertão brasileiro",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.888Z",
+    "updatedAt": "2026-03-05T09:27:29.888Z"
+  },
+  {
+    "id": "cmmd9i92g000vqaio6owzahx6",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "front": "Astecas",
+    "back": "Império do México central, capital Tenochtitlan",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.897Z",
+    "updatedAt": "2026-03-05T09:27:29.897Z"
+  },
+  {
+    "id": "cmmd9i92n001aqaioqtesjywc",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "front": "Sumérios",
+    "back": "Primeira civilização urbana, inventores da escrita cuneiforme",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.904Z",
+    "updatedAt": "2026-03-05T09:27:29.904Z"
+  },
+  {
+    "id": "cmmd9i92v001pqaio1o95zjf8",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "front": "Democracia",
+    "back": "Governo do povo, nascida em Atenas",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.911Z",
+    "updatedAt": "2026-03-05T09:27:29.911Z"
+  },
+  {
+    "id": "cmmd9i9310024qaiocrvyb477",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "front": "Império Romano",
+    "back": "Período de governo imperial, iniciado por Augusto",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.918Z",
+    "updatedAt": "2026-03-05T09:27:29.918Z"
+  },
+  {
+    "id": "cmmd9i938002jqaiong1ou8fe",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "front": "Suserania",
+    "back": "Relação de poder entre senhor e vassalo",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.925Z",
+    "updatedAt": "2026-03-05T09:27:29.925Z"
+  },
+  {
+    "id": "cmmd9i93e002yqaioioybkbz1",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "front": "Inquisição",
+    "back": "Tribunal da Igreja contra heresias",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.930Z",
+    "updatedAt": "2026-03-05T09:27:29.930Z"
+  },
+  {
+    "id": "cmmd9i93l003dqaiol7wy4t10",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "front": "Burguesia",
+    "back": "Classe social dos comerciantes e artesãos",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.938Z",
+    "updatedAt": "2026-03-05T09:27:29.938Z"
+  },
+  {
+    "id": "cmmd9i93t003sqaiozm6vl5x7",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "front": "Antropocentrismo",
+    "back": "Visão de mundo centrada no homem",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.946Z",
+    "updatedAt": "2026-03-05T09:27:29.946Z"
+  },
+  {
+    "id": "cmmd9i93z0047qaioud7qpemk",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "front": "95 Teses",
+    "back": "Documento de Lutero criticando indulgências",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.951Z",
+    "updatedAt": "2026-03-05T09:27:29.951Z"
+  },
+  {
+    "id": "cmmd9i945004mqaioh5gcoqs1",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "front": "Direito Divino",
+    "back": "Poder do rei vem de Deus",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.957Z",
+    "updatedAt": "2026-03-05T09:27:29.957Z"
+  },
+  {
+    "id": "cmmd9i94a0051qaiovqr1mygf",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "front": "Caravela",
+    "back": "Navio de navegação oceânica",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.963Z",
+    "updatedAt": "2026-03-05T09:27:29.963Z"
+  },
+  {
+    "id": "cmmd9i94g005gqaioeede1a1g",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "front": "Contrato Social",
+    "back": "Obra de Rousseau sobre soberania popular",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.968Z",
+    "updatedAt": "2026-03-05T09:27:29.968Z"
+  },
+  {
+    "id": "cmmd9i94m005vqaioiffgplke",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "front": "Declaração dos Direitos",
+    "back": "Documento que proclamou direitos naturais",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.974Z",
+    "updatedAt": "2026-03-05T09:27:29.974Z"
+  },
+  {
+    "id": "cmmd9i94q006aqaio1r2o11oy",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "front": "James Watt",
+    "back": "Aperfeiçoou a máquina a vapor",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.979Z",
+    "updatedAt": "2026-03-05T09:27:29.979Z"
+  },
+  {
+    "id": "cmmd9i94z006pqaioxcn5jkj1",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "front": "Inconfidência Mineira",
+    "back": "Revolta contra a Coroa em 1789",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.988Z",
+    "updatedAt": "2026-03-05T09:27:29.988Z"
+  },
+  {
+    "id": "cmmd9i9540074qaion023lo1t",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "front": "Transferência da Corte",
+    "back": "Mudança da família real em 1808",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.993Z",
+    "updatedAt": "2026-03-05T09:27:29.993Z"
+  },
+  {
+    "id": "cmmd9i959007jqaiokr7o8cr2",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "front": "D. Pedro I",
+    "back": "Proclamou a Independência",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.997Z",
+    "updatedAt": "2026-03-05T09:27:29.997Z"
+  },
+  {
+    "id": "cmmd9i95e007yqaiol8le5qas",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "front": "Lei do Ventre Livre",
+    "back": "Libertou filhos de escravas em 1871",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.003Z",
+    "updatedAt": "2026-03-05T09:27:30.003Z"
+  },
+  {
+    "id": "cmmd9i95k008dqaioi90l5bz0",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "front": "Coronelismo",
+    "back": "Poder político dos latifundiários locais",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.008Z",
+    "updatedAt": "2026-03-05T09:27:30.008Z"
+  },
+  {
+    "id": "cmmd9i95o008sqaio81ynb3bd",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "front": "Guerra de Canudos",
+    "back": "Conflito entre sertanejos e Exército",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.012Z",
+    "updatedAt": "2026-03-05T09:27:30.012Z"
+  },
+  {
+    "id": "cmmd9i95t0097qaio2zrxdqr2",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "front": "Getúlio Vargas",
+    "back": "Líder da Revolução de 1930",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.018Z",
+    "updatedAt": "2026-03-05T09:27:30.018Z"
+  },
+  {
+    "id": "cmmd9i95y009mqaiot076mxp3",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "front": "CLT",
+    "back": "Consolidação das Leis do Trabalho",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.022Z",
+    "updatedAt": "2026-03-05T09:27:30.022Z"
+  },
+  {
+    "id": "cmmd9i96200a1qaiobxehbw9f",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "front": "Geisel",
+    "back": "Presidente que iniciou a abertura",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.027Z",
+    "updatedAt": "2026-03-05T09:27:30.027Z"
+  },
+  {
+    "id": "cmmd9i96700agqaioh8bbaf4j",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "front": "Cortina de Ferro",
+    "back": "Divisão entre Europa capitalista e socialista",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.032Z",
+    "updatedAt": "2026-03-05T09:27:30.032Z"
+  },
+  {
+    "id": "cmmd9i96d00avqaioq0kspihr",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "front": "Blocos econômicos",
+    "back": "União de países para comércio",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.037Z",
+    "updatedAt": "2026-03-05T09:27:30.037Z"
+  },
+  {
+    "id": "cmmd9i96h00baqaio0983q4w6",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "front": "D. Pedro I",
+    "back": "Proclamou a Independência",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.041Z",
+    "updatedAt": "2026-03-05T09:27:30.041Z"
+  },
+  {
+    "id": "cmmd9i96l00bpqaio2h3lyz81",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "front": "José de San Martín",
+    "back": "Libertador do sul da América do Sul",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.046Z",
+    "updatedAt": "2026-03-05T09:27:30.046Z"
+  },
+  {
+    "id": "cmmd9i96q00c4qaiochxl6561",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "front": "Apartheid",
+    "back": "Regime de segregação na África do Sul",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.051Z",
+    "updatedAt": "2026-03-05T09:27:30.051Z"
+  },
+  {
+    "id": "cmmdbhnq90001qastvjvt955o",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "front": "Capitanias Hereditárias",
+    "back": "Sistema de divisão territorial criado em 1534",
+    "order": 2,
+    "createdAt": "2026-03-05T10:23:01.473Z",
+    "updatedAt": "2026-03-05T10:23:01.473Z"
+  },
+  {
+    "id": "cmmdbhnqi000gqastbvnjfp96",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "front": "AI-5",
+    "back": "Ato Institucional que endureceu o regime",
+    "order": 2,
+    "createdAt": "2026-03-05T10:23:01.482Z",
+    "updatedAt": "2026-03-05T10:23:01.482Z"
+  },
+  {
+    "id": "cmmdbhnqq000vqastydzqcj32",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "front": "Segunda Guerra",
+    "back": "1939-1945 - conflito global",
+    "order": 2,
+    "createdAt": "2026-03-05T10:23:01.491Z",
+    "updatedAt": "2026-03-05T10:23:01.491Z"
+  },
+  {
+    "id": "cmmdbibob0001qatgdba5bdfh",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "front": "Apartheid",
+    "back": "Regime de segregação na África do Sul",
+    "order": 2,
+    "createdAt": "2026-03-05T10:23:32.507Z",
+    "updatedAt": "2026-03-05T10:23:32.507Z"
+  },
+  {
+    "id": "cmmd9i91z0002qaio6ohioimh",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "front": "Homo erectus",
+    "back": "Primeiro hominídeo a dominar o fogo",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.880Z",
+    "updatedAt": "2026-03-05T09:27:29.880Z"
+  },
+  {
+    "id": "cmmd9i928000hqaiony4c00wf",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "front": "Arawak",
+    "back": "Tronco linguístico do norte da Amazônia",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.888Z",
+    "updatedAt": "2026-03-05T09:27:29.888Z"
+  },
+  {
+    "id": "cmmd9i92h000wqaioyu045mta",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "front": "Incas",
+    "back": "Império sul-americano com capital em Cusco",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.897Z",
+    "updatedAt": "2026-03-05T09:27:29.897Z"
+  },
+  {
+    "id": "cmmd9i92o001bqaiosaxtpr3b",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "front": "Código de Hamurabi",
+    "back": "Primeiro código de leias escrito, \"olho por olho\"",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.904Z",
+    "updatedAt": "2026-03-05T09:27:29.904Z"
+  },
+  {
+    "id": "cmmd9i92v001qqaiow4hxr6ir",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "front": "Esparta",
+    "back": "Cidade-estado militarista grega",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.912Z",
+    "updatedAt": "2026-03-05T09:27:29.912Z"
+  },
+  {
+    "id": "cmmd9i9310025qaio0hojq5yp",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "front": "Pax Romana",
+    "back": "Período de paz e estabilidade do Império",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.918Z",
+    "updatedAt": "2026-03-05T09:27:29.918Z"
+  },
+  {
+    "id": "cmmd9i939002kqaiop6vphmbj",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "front": "Servidão",
+    "back": "Condição de trabalho dos camponeses no feudo",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.925Z",
+    "updatedAt": "2026-03-05T09:27:29.925Z"
+  },
+  {
+    "id": "cmmd9i93e002zqaiocyfq748k",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "front": "Clero",
+    "back": "Classe social dos religiosos",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.931Z",
+    "updatedAt": "2026-03-05T09:27:29.931Z"
+  },
+  {
+    "id": "cmmd9i93m003eqaio4x8nzpg4",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "front": "Guildas",
+    "back": "Associações de artesãos medievais",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.938Z",
+    "updatedAt": "2026-03-05T09:27:29.938Z"
+  },
+  {
+    "id": "cmmd9i93u003tqaio15bxsreb",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "front": "Perspectiva",
+    "back": "Técnica artística renascentista de profundidade",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.946Z",
+    "updatedAt": "2026-03-05T09:27:29.946Z"
+  },
+  {
+    "id": "cmmd9i93z0048qaioyftinpwx",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "front": "Contrarreforma",
+    "back": "Resposta da Igreja Católica ao protestantismo",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.952Z",
+    "updatedAt": "2026-03-05T09:27:29.952Z"
+  },
+  {
+    "id": "cmmd9i945004nqaioqlqgqbh8",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "front": "Luís XIV",
+    "back": "Rei Sol, símbolo do absolutismo francês",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.958Z",
+    "updatedAt": "2026-03-05T09:27:29.958Z"
+  },
+  {
+    "id": "cmmd9i94b0052qaiot4o15h8j",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "front": "Tordesilhas",
+    "back": "Tratado que dividiu o mundo entre Portugal e Espanha",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.963Z",
+    "updatedAt": "2026-03-05T09:27:29.963Z"
+  },
+  {
+    "id": "cmmd9i94g005hqaioywcc93g8",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "front": "O Espírito das Leis",
+    "back": "Obra de Montesquieu sobre separação de poderes",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.969Z",
+    "updatedAt": "2026-03-05T09:27:29.969Z"
+  },
+  {
+    "id": "cmmd9i94m005wqaiod7tx9inf",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "front": "Reino do Terror",
+    "back": "Período de execuções liderado por Robespierre",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.974Z",
+    "updatedAt": "2026-03-05T09:27:29.974Z"
+  },
+  {
+    "id": "cmmd9i94t006bqaio3m7dkp0l",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "front": "Proletariado",
+    "back": "Classe operária industrial",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.982Z",
+    "updatedAt": "2026-03-05T09:27:29.982Z"
+  },
+  {
+    "id": "cmmd9i950006qqaioe08643gc",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "front": "Conjuração Baiana",
+    "back": "Revolta em 1798 por igualdade racial",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.988Z",
+    "updatedAt": "2026-03-05T09:27:29.988Z"
+  },
+  {
+    "id": "cmmd9i9550075qaiov317gdmv",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "front": "Abertura dos portos",
+    "back": "Fim do monopólio comercial português",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.993Z",
+    "updatedAt": "2026-03-05T09:27:29.993Z"
+  },
+  {
+    "id": "cmmd9i959007kqaio0jd1qjql",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "front": "Constituição de 1824",
+    "back": "Primeira constituição brasileira",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.998Z",
+    "updatedAt": "2026-03-05T09:27:29.998Z"
+  },
+  {
+    "id": "cmmd9i95f007zqaiobqoe29xe",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "front": "Lei dos Sexagenários",
+    "back": "Libertou escravos com mais de 65 anos",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.003Z",
+    "updatedAt": "2026-03-05T09:27:30.003Z"
+  },
+  {
+    "id": "cmmd9i95k008eqaio2aeb8nrv",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "front": "Voto de cabresto",
+    "back": "Voto controlado pelos coronéis",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.008Z",
+    "updatedAt": "2026-03-05T09:27:30.008Z"
+  },
+  {
+    "id": "cmmd9i95o008tqaio3g1cn2fr",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "front": "Revolta da Vacina",
+    "back": "Revolta popular no Rio em 1904",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.012Z",
+    "updatedAt": "2026-03-05T09:27:30.012Z"
+  },
+  {
+    "id": "cmmd9i95t0098qaioynaxgovw",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "front": "Aliança Liberal",
+    "back": "Coligação oposicionista de 1930",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.018Z",
+    "updatedAt": "2026-03-05T09:27:30.018Z"
+  },
+  {
+    "id": "cmmd9i95y009nqaio0xm0i1cv",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "front": "DIP",
+    "back": "Departamento de Imprensa e Propaganda",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.022Z",
+    "updatedAt": "2026-03-05T09:27:30.022Z"
+  },
+  {
+    "id": "cmmd9i96300a2qaio8j54ds5o",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "front": "Diretas Já",
+    "back": "Movimento por eleições diretas em 1984",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.027Z",
+    "updatedAt": "2026-03-05T09:27:30.027Z"
+  },
+  {
+    "id": "cmmd9i96800ahqaiompwsk2hx",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "front": "Muro de Berlim",
+    "back": "Símbolo da divisão da Alemanha",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.032Z",
+    "updatedAt": "2026-03-05T09:27:30.032Z"
+  },
+  {
+    "id": "cmmd9i96d00awqaiozd1d55oc",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "front": "União Europeia",
+    "back": "Bloco econômico europeu",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.038Z",
+    "updatedAt": "2026-03-05T09:27:30.038Z"
+  },
+  {
+    "id": "cmmd9i96h00bbqaio806vnckt",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "front": "Constituição de 1824",
+    "back": "Primeira constituição brasileira",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.042Z",
+    "updatedAt": "2026-03-05T09:27:30.042Z"
+  },
+  {
+    "id": "cmmd9i96l00bqqaio94rildkt",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "front": "Ditaduras militares",
+    "back": "Regimes autoritários na América Latina",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.046Z",
+    "updatedAt": "2026-03-05T09:27:30.046Z"
+  },
+  {
+    "id": "cmmd9i96q00c5qaioz6ouonfs",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "front": "Nelson Mandela",
+    "back": "Líder contra o apartheid",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.051Z",
+    "updatedAt": "2026-03-05T09:27:30.051Z"
+  },
+  {
+    "id": "cmmdbhnq90002qastobg3lnsu",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "front": "Engenho de açúcar",
+    "back": "Unidade produtora de açúcar no Brasil colonial",
+    "order": 3,
+    "createdAt": "2026-03-05T10:23:01.474Z",
+    "updatedAt": "2026-03-05T10:23:01.474Z"
+  },
+  {
+    "id": "cmmdbhnqi000hqasteva9tm0o",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "front": "DOPS",
+    "back": "Departamento de Ordem Política e Social",
+    "order": 3,
+    "createdAt": "2026-03-05T10:23:01.483Z",
+    "updatedAt": "2026-03-05T10:23:01.483Z"
+  },
+  {
+    "id": "cmmdbhnqq000wqast76khwkis",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "front": "Tratado de Versalhes",
+    "back": "Tratado que encerrou a 1ª Guerra",
+    "order": 3,
+    "createdAt": "2026-03-05T10:23:01.491Z",
+    "updatedAt": "2026-03-05T10:23:01.491Z"
+  },
+  {
+    "id": "cmmdbibob0002qatg6vvgleoq",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "front": "Nelson Mandela",
+    "back": "Líder contra o apartheid",
+    "order": 3,
+    "createdAt": "2026-03-05T10:23:32.508Z",
+    "updatedAt": "2026-03-05T10:23:32.508Z"
+  },
+  {
+    "id": "cmmd9i9200003qaior6xiw3vf",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "front": "Revolução Neolítica",
+    "back": "Transição para agricultura e vida sedentária",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.880Z",
+    "updatedAt": "2026-03-05T09:27:29.880Z"
+  },
+  {
+    "id": "cmmd9i929000iqaiogwst9m9h",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "front": "Maloca",
+    "back": "Habitação coletiva indígena",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.890Z",
+    "updatedAt": "2026-03-05T09:27:29.890Z"
+  },
+  {
+    "id": "cmmd9i92h000xqaioxygaxp06",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "front": "Quipu",
+    "back": "Sistema de cordões para registro inca",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.898Z",
+    "updatedAt": "2026-03-05T09:27:29.898Z"
+  },
+  {
+    "id": "cmmd9i92o001cqaio3cuccxp4",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "front": "Zigurates",
+    "back": "Templos em forma de torre dos mesopotâmicos",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.904Z",
+    "updatedAt": "2026-03-05T09:27:29.904Z"
+  },
+  {
+    "id": "cmmd9i92w001rqaio52n1r9he",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "front": "Partenon",
+    "back": "Templo dedicado a Atena na Acrópole",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.912Z",
+    "updatedAt": "2026-03-05T09:27:29.912Z"
+  },
+  {
+    "id": "cmmd9i9320026qaiohwlzg5ft",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "front": "Direito Romano",
+    "back": "Sistema jurídico que influencia o direito atual",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.918Z",
+    "updatedAt": "2026-03-05T09:27:29.918Z"
+  },
+  {
+    "id": "cmmd9i939002lqaiogt42gslz",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "front": "Corvéia",
+    "back": "Trabalho obrigatório do servo para o senhor",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.925Z",
+    "updatedAt": "2026-03-05T09:27:29.925Z"
+  },
+  {
+    "id": "cmmd9i93f0030qaiocdouishj",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "front": "Mosteiro",
+    "back": "Comunidade de monges",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.931Z",
+    "updatedAt": "2026-03-05T09:27:29.931Z"
+  },
+  {
+    "id": "cmmd9i93m003fqaiolwhru83d",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "front": "Feiras medievais",
+    "back": "Centros de comércio entre cidades",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.939Z",
+    "updatedAt": "2026-03-05T09:27:29.939Z"
+  },
+  {
+    "id": "cmmd9i93u003uqaiosz7l1k6z",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "front": "Mecenas",
+    "back": "Patronos das artes renascentistas",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.947Z",
+    "updatedAt": "2026-03-05T09:27:29.947Z"
+  },
+  {
+    "id": "cmmd9i9400049qaiogpbet2dx",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "front": "Concílio de Trento",
+    "back": "Reunião que definiu dogmas católicos",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.952Z",
+    "updatedAt": "2026-03-05T09:27:29.952Z"
+  },
+  {
+    "id": "cmmd9i946004oqaio9z5lzbau",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "front": "Mercantilismo",
+    "back": "Política econômica de acumulação de metais",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.958Z",
+    "updatedAt": "2026-03-05T09:27:29.958Z"
+  },
+  {
+    "id": "cmmd9i94b0053qaioo6ttzwyt",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "front": "Vasco da Gama",
+    "back": "Chegou à Índia em 1498",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.963Z",
+    "updatedAt": "2026-03-05T09:27:29.963Z"
+  },
+  {
+    "id": "cmmd9i94h005iqaioxoy14rzb",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "front": "Enciclopédia",
+    "back": "Obra de Diderot que compilou conhecimento",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.969Z",
+    "updatedAt": "2026-03-05T09:27:29.969Z"
+  },
+  {
+    "id": "cmmd9i94m005xqaiog4tix007",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "front": "Guilhotina",
+    "back": "Instrumento de execução da Revolução",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.975Z",
+    "updatedAt": "2026-03-05T09:27:29.975Z"
+  },
+  {
+    "id": "cmmd9i94u006cqaioi0hldqcd",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "front": "Ludismo",
+    "back": "Movimento de destruição de máquinas",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.982Z",
+    "updatedAt": "2026-03-05T09:27:29.982Z"
+  },
+  {
+    "id": "cmmd9i950006rqaiomrt3r39r",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "front": "Derrama",
+    "back": "Cobrança forçada de impostos atrasados",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.988Z",
+    "updatedAt": "2026-03-05T09:27:29.988Z"
+  },
+  {
+    "id": "cmmd9i9550076qaiou2d4i4st",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "front": "Elevação a Reino Unido",
+    "back": "Brasil deixa de ser colônia em 1815",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.993Z",
+    "updatedAt": "2026-03-05T09:27:29.993Z"
+  },
+  {
+    "id": "cmmd9i959007lqaiontj6wa1p",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "front": "Poder Moderador",
+    "back": "Poder especial do imperador",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.998Z",
+    "updatedAt": "2026-03-05T09:27:29.998Z"
+  },
+  {
+    "id": "cmmd9i95f0080qaioief5f6nw",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "front": "Lei Áurea",
+    "back": "Abolição da escravidão em 1888",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.004Z",
+    "updatedAt": "2026-03-05T09:27:30.004Z"
+  },
+  {
+    "id": "cmmd9i95k008fqaiog6iyyvhl",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "front": "Voto aberto",
+    "back": "Voto não secreto da República Velha",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.009Z",
+    "updatedAt": "2026-03-05T09:27:30.009Z"
+  },
+  {
+    "id": "cmmd9i95o008uqaioi41q5vhw",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "front": "Revolta da Chibata",
+    "back": "Revolta de marinheiros em 1910",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.013Z",
+    "updatedAt": "2026-03-05T09:27:30.013Z"
+  },
+  {
+    "id": "cmmd9i95u0099qaiopb3qifym",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "front": "República Nova",
+    "back": "Período pós-1930",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.018Z",
+    "updatedAt": "2026-03-05T09:27:30.018Z"
+  },
+  {
+    "id": "cmmd9i95y009oqaiockuhvfi3",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "front": "Trabalhismo",
+    "back": "Ideologia varguista",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.023Z",
+    "updatedAt": "2026-03-05T09:27:30.023Z"
+  },
+  {
+    "id": "cmmd9i96300a3qaioxee74o2p",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "front": "Lei da Anistia",
+    "back": "Lei de 1979 para exilados",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.027Z",
+    "updatedAt": "2026-03-05T09:27:30.027Z"
+  },
+  {
+    "id": "cmmd9i96800aiqaiofd1nh0gr",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "front": "Plano Marshall",
+    "back": "Ajuda americana à Europa",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.032Z",
+    "updatedAt": "2026-03-05T09:27:30.032Z"
+  },
+  {
+    "id": "cmmd9i96d00axqaio8e3p2py8",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "front": "MERCOSUL",
+    "back": "Bloco econômico sul-americano",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.038Z",
+    "updatedAt": "2026-03-05T09:27:30.038Z"
+  },
+  {
+    "id": "cmmd9i96h00bcqaioggebacu3",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "front": "Poder Moderador",
+    "back": "Poder especial do imperador",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.042Z",
+    "updatedAt": "2026-03-05T09:27:30.042Z"
+  },
+  {
+    "id": "cmmd9i96m00brqaio3xlqke4e",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "front": "Revolução Cubana",
+    "back": "1959 - Fidel Castro",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.046Z",
+    "updatedAt": "2026-03-05T09:27:30.046Z"
+  },
+  {
+    "id": "cmmd9i96r00c6qaioy9sg3nnf",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "front": "Descolonização",
+    "back": "Processo de independência africana",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.051Z",
+    "updatedAt": "2026-03-05T09:27:30.051Z"
+  },
+  {
+    "id": "cmmdbhnqa0003qasttqc6ue4x",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "front": "Sesmaria",
+    "back": "Sistema de concessão de terras pela Coroa",
+    "order": 4,
+    "createdAt": "2026-03-05T10:23:01.474Z",
+    "updatedAt": "2026-03-05T10:23:01.474Z"
+  },
+  {
+    "id": "cmmdbhnqj000iqasti5ycafk7",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "front": "Censura",
+    "back": "Controle da imprensa pelo regime",
+    "order": 4,
+    "createdAt": "2026-03-05T10:23:01.483Z",
+    "updatedAt": "2026-03-05T10:23:01.483Z"
+  },
+  {
+    "id": "cmmdbhnqr000xqastyn4upjaq",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "front": "Holocausto",
+    "back": "Genocídio de judeus pelos nazistas",
+    "order": 4,
+    "createdAt": "2026-03-05T10:23:01.491Z",
+    "updatedAt": "2026-03-05T10:23:01.491Z"
+  },
+  {
+    "id": "cmmdbiboc0003qatga28ocsrq",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "front": "Partilha da África",
+    "back": "Divisão colonial em 1884-85",
+    "order": 4,
+    "createdAt": "2026-03-05T10:23:32.508Z",
+    "updatedAt": "2026-03-05T10:23:32.508Z"
+  },
+  {
+    "id": "cmmd9i9200004qaionlj4wp49",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "front": "Pinturas rupestres",
+    "back": "Arte parietal do Paleolítico em cavernas",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.881Z",
+    "updatedAt": "2026-03-05T09:27:29.881Z"
+  },
+  {
+    "id": "cmmd9i92a000jqaiovgpawpp8",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "front": "Pajelança",
+    "back": "Sistema religioso e de cura indígena",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.890Z",
+    "updatedAt": "2026-03-05T09:27:29.890Z"
+  },
+  {
+    "id": "cmmd9i92i000yqaiofladhm3i",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "front": "Machu Picchu",
+    "back": "Cidade inca nas montanhas dos Andes",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.898Z",
+    "updatedAt": "2026-03-05T09:27:29.898Z"
+  },
+  {
+    "id": "cmmd9i92p001dqaiolh514l34",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "front": "Egito Antigo",
+    "back": "Civilização às margens do rio Nilo",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.905Z",
+    "updatedAt": "2026-03-05T09:27:29.905Z"
+  },
+  {
+    "id": "cmmd9i92w001sqaio5ud61z3v",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "front": "Filosofia",
+    "back": "Surgimento do pensamento racional grego",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.912Z",
+    "updatedAt": "2026-03-05T09:27:29.912Z"
+  },
+  {
+    "id": "cmmd9i9320027qaio833aos50",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "front": "Cristianismo",
+    "back": "Religião que se tornou oficial no Império Romano",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.919Z",
+    "updatedAt": "2026-03-05T09:27:29.919Z"
+  },
+  {
+    "id": "cmmd9i939002mqaiolq9krria",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "front": "Banalidade",
+    "back": "Taxas pagas pelos servos pelo uso de instalações",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.925Z",
+    "updatedAt": "2026-03-05T09:27:29.925Z"
+  },
+  {
+    "id": "cmmd9i93f0031qaiojxffnhw5",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "front": "Herege",
+    "back": "Pessoa que nega dogmas da Igreja",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.931Z",
+    "updatedAt": "2026-03-05T09:27:29.931Z"
+  },
+  {
+    "id": "cmmd9i93n003gqaioku4t2ou1",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "front": "Cartas de franquia",
+    "back": "Documentos que liberavam cidades do feudalismo",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.939Z",
+    "updatedAt": "2026-03-05T09:27:29.939Z"
+  },
+  {
+    "id": "cmmd9i93v003vqaio97rieli2",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "front": "Manierismo",
+    "back": "Estilo artístico que sucede o Renascimento",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.947Z",
+    "updatedAt": "2026-03-05T09:27:29.947Z"
+  },
+  {
+    "id": "cmmd9i940004aqaiobv23m1fk",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "front": "Companhia de Jesus",
+    "back": "Ordem religiosa fundada por Inácio de Loyola",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.952Z",
+    "updatedAt": "2026-03-05T09:27:29.952Z"
+  },
+  {
+    "id": "cmmd9i946004pqaiopsowuwbd",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "front": "Balança comercial favorável",
+    "back": "Exportar mais do que importar",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.958Z",
+    "updatedAt": "2026-03-05T09:27:29.958Z"
+  },
+  {
+    "id": "cmmd9i94b0054qaio3mk66rs8",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "front": "Cabral",
+    "back": "Chegou ao Brasil em 1500",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.964Z",
+    "updatedAt": "2026-03-05T09:27:29.964Z"
+  },
+  {
+    "id": "cmmd9i94h005jqaioihts3fu3",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "front": "Liberalismo",
+    "back": "Ideologia de liberdade econômica e política",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.970Z",
+    "updatedAt": "2026-03-05T09:27:29.970Z"
+  },
+  {
+    "id": "cmmd9i94n005yqaiowtyv4pyw",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "front": "Napoleão",
+    "back": "General que se tornou imperador após a Revolução",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.975Z",
+    "updatedAt": "2026-03-05T09:27:29.975Z"
+  },
+  {
+    "id": "cmmd9i94u006dqaio9nw7udqp",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "front": "Socialismo",
+    "back": "Ideologia que propõe igualdade social",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.982Z",
+    "updatedAt": "2026-03-05T09:27:29.982Z"
+  },
+  {
+    "id": "cmmd9i950006sqaioeu2uvbdb",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "front": "Alferes",
+    "back": "Patente militar de Tiradentes",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.989Z",
+    "updatedAt": "2026-03-05T09:27:29.989Z"
+  },
+  {
+    "id": "cmmd9i9550077qaiodobu5bne",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "front": "D. Pedro I",
+    "back": "Primeiro imperador do Brasil",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.994Z",
+    "updatedAt": "2026-03-05T09:27:29.994Z"
+  },
+  {
+    "id": "cmmd9i95a007mqaioq7mu9v5j",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "front": "Reconhecimento",
+    "back": "Portugal reconheceu independência em 1825",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.998Z",
+    "updatedAt": "2026-03-05T09:27:29.998Z"
+  },
+  {
+    "id": "cmmd9i95f0081qaio7gay30d8",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "front": "Princesa Isabel",
+    "back": "Assinou a Lei Áurea",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.004Z",
+    "updatedAt": "2026-03-05T09:27:30.004Z"
+  },
+  {
+    "id": "cmmd9i95k008gqaiou8slismj",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "front": "Tenentismo",
+    "back": "Movimento de jovens oficiais militares",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.009Z",
+    "updatedAt": "2026-03-05T09:27:30.009Z"
+  },
+  {
+    "id": "cmmd9i95p008vqaio2tu0883p",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "front": "Cangaço",
+    "back": "Banditismo social no Nordeste",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.013Z",
+    "updatedAt": "2026-03-05T09:27:30.013Z"
+  },
+  {
+    "id": "cmmd9i95u009aqaiou4wn6lve",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "front": "Governo Provisório",
+    "back": "Período 1930-1934",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.018Z",
+    "updatedAt": "2026-03-05T09:27:30.018Z"
+  },
+  {
+    "id": "cmmd9i95y009pqaio2bs81b10",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "front": "Nacionalismo",
+    "back": "Política de valorização nacional",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.023Z",
+    "updatedAt": "2026-03-05T09:27:30.023Z"
+  },
+  {
+    "id": "cmmd9i96300a4qaiozrc93aw2",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "front": "Tancredo Neves",
+    "back": "Primeiro presidente civil eleito",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.028Z",
+    "updatedAt": "2026-03-05T09:27:30.028Z"
+  },
+  {
+    "id": "cmmd9i96900ajqaioib2ldntp",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "front": "OTAN",
+    "back": "Aliança militar ocidental",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.033Z",
+    "updatedAt": "2026-03-05T09:27:30.033Z"
+  },
+  {
+    "id": "cmmd9i96e00ayqaiobm27ks48",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "front": "Internet",
+    "back": "Rede de comunicação global",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.038Z",
+    "updatedAt": "2026-03-05T09:27:30.038Z"
+  },
+  {
+    "id": "cmmd9i96i00bdqaion1ssw47a",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "front": "Reconhecimento",
+    "back": "Portugal reconheceu independência em 1825",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.042Z",
+    "updatedAt": "2026-03-05T09:27:30.042Z"
+  },
+  {
+    "id": "cmmd9i96m00bsqaio4vbhhiwv",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "front": "Ché Guevara",
+    "back": "Revolucionário argentino-cubano",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.046Z",
+    "updatedAt": "2026-03-05T09:27:30.046Z"
+  },
+  {
+    "id": "cmmd9i96r00c7qaio9pyio6my",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "front": "Pan-africanismo",
+    "back": "Movimento de unidade africana",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.051Z",
+    "updatedAt": "2026-03-05T09:27:30.051Z"
+  },
+  {
+    "id": "cmmdbhnqa0004qast45vfnsmr",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "front": "Quilombo",
+    "back": "Comunidade de escravos fugitivos",
+    "order": 5,
+    "createdAt": "2026-03-05T10:23:01.475Z",
+    "updatedAt": "2026-03-05T10:23:01.475Z"
+  },
+  {
+    "id": "cmmdbhnqk000jqast48vka60z",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "front": "Anistia",
+    "back": "Lei de 1979 que permitiu retorno dos exilados",
+    "order": 5,
+    "createdAt": "2026-03-05T10:23:01.485Z",
+    "updatedAt": "2026-03-05T10:23:01.485Z"
+  },
+  {
+    "id": "cmmdbhnqr000yqast0793txbp",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "front": "Bomba atômica",
+    "back": "Arma nuclear usada em Hiroshima e Nagasaki",
+    "order": 5,
+    "createdAt": "2026-03-05T10:23:01.492Z",
+    "updatedAt": "2026-03-05T10:23:01.492Z"
+  },
+  {
+    "id": "cmmdbiboc0004qatgqfb7sw1b",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "front": "Neocolonialismo",
+    "back": "Domínio econômico pós-independência",
+    "order": 5,
+    "createdAt": "2026-03-05T10:23:32.509Z",
+    "updatedAt": "2026-03-05T10:23:32.509Z"
+  }
+]

@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "cmmd9i923000aqaioko4cjhuz",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "term": "Paleolítico",
+    "definition": "Período nômade de caça e coleta",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.884Z",
+    "updatedAt": "2026-03-05T09:27:29.884Z"
+  },
+  {
+    "id": "cmmd9i92c000pqaio1mbgt180",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "term": "Tupi",
+    "definition": "Povos do litoral brasileiro",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.893Z",
+    "updatedAt": "2026-03-05T09:27:29.893Z"
+  },
+  {
+    "id": "cmmd9i92k0014qaio8jnrp3s0",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "term": "Maias",
+    "definition": "Península de Yucatán",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.900Z",
+    "updatedAt": "2026-03-05T09:27:29.900Z"
+  },
+  {
+    "id": "cmmd9i92s001jqaioawxnprf9",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "term": "Mesopotâmia",
+    "definition": "Tigre e Eufrates",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.908Z",
+    "updatedAt": "2026-03-05T09:27:29.908Z"
+  },
+  {
+    "id": "cmmd9i92y001yqaiortywzf6v",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "term": "Atenas",
+    "definition": "Berço da democracia",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.915Z",
+    "updatedAt": "2026-03-05T09:27:29.915Z"
+  },
+  {
+    "id": "cmmd9i935002dqaiohg496ggv",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "term": "República",
+    "definition": "Governo com Senado",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.922Z",
+    "updatedAt": "2026-03-05T09:27:29.922Z"
+  },
+  {
+    "id": "cmmd9i93b002sqaiodgqpum42",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "term": "Senhor feudal",
+    "definition": "Proprietário do feudo",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.927Z",
+    "updatedAt": "2026-03-05T09:27:29.927Z"
+  },
+  {
+    "id": "cmmd9i93h0037qaio03iqg8d7",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "term": "Papa",
+    "definition": "Líder da Igreja Católica",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.934Z",
+    "updatedAt": "2026-03-05T09:27:29.934Z"
+  },
+  {
+    "id": "cmmd9i93q003mqaiovbsd11aa",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "term": "Burgo",
+    "definition": "Cidade medieval",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.943Z",
+    "updatedAt": "2026-03-05T09:27:29.943Z"
+  },
+  {
+    "id": "cmmd9i93x0041qaiolrpt25qg",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "term": "Leonardo da Vinci",
+    "definition": "Mona Lisa, homem universal",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.949Z",
+    "updatedAt": "2026-03-05T09:27:29.949Z"
+  },
+  {
+    "id": "cmmd9i943004gqaiooep3c0s5",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "term": "Luteranismo",
+    "definition": "Doutrina de Lutero",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.955Z",
+    "updatedAt": "2026-03-05T09:27:29.955Z"
+  },
+  {
+    "id": "cmmd9i948004vqaiopshftp0y",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "term": "Rei Sol",
+    "definition": "Luís XIV da França",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.961Z",
+    "updatedAt": "2026-03-05T09:27:29.961Z"
+  },
+  {
+    "id": "cmmd9i94d005aqaioqj1pajr6",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "term": "Portugal",
+    "definition": "Pioneiro nas navegações",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.965Z",
+    "updatedAt": "2026-03-05T09:27:29.965Z"
+  },
+  {
+    "id": "cmmd9i94j005pqaioqlh448v1",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "term": "Voltaire",
+    "definition": "Crítico da Igreja e do absolutismo",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.971Z",
+    "updatedAt": "2026-03-05T09:27:29.971Z"
+  },
+  {
+    "id": "cmmd9i94o0064qaios4mmgd09",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "term": "Liberdade",
+    "definition": "Um dos lemas da Revolução",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.977Z",
+    "updatedAt": "2026-03-05T09:27:29.977Z"
+  },
+  {
+    "id": "cmmd9i94w006jqaioyd22nzn2",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "term": "Carvão",
+    "definition": "Combustível da Primeira Revolução",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.985Z",
+    "updatedAt": "2026-03-05T09:27:29.985Z"
+  },
+  {
+    "id": "cmmd9i952006yqaio3tos5ke6",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "term": "Minas Gerais",
+    "definition": "Local da Inconfidência Mineira",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.990Z",
+    "updatedAt": "2026-03-05T09:27:29.990Z"
+  },
+  {
+    "id": "cmmd9i957007dqaioxihpgnar",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "term": "Rio de Janeiro",
+    "definition": "Sede da Corte portuguesa",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:29.995Z",
+    "updatedAt": "2026-03-05T09:27:29.995Z"
+  },
+  {
+    "id": "cmmd9i95b007sqaio421niot0",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "term": "Ipiranga",
+    "definition": "Local do grito de Independência",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.000Z",
+    "updatedAt": "2026-03-05T09:27:30.000Z"
+  },
+  {
+    "id": "cmmd9i95h0087qaio2uhdtaad",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "term": "Paraguai",
+    "definition": "País inimigo na Guerra",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.006Z",
+    "updatedAt": "2026-03-05T09:27:30.006Z"
+  },
+  {
+    "id": "cmmd9i95m008mqaio9s83ngne",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "term": "São Paulo",
+    "definition": "Estado produtor de café",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.010Z",
+    "updatedAt": "2026-03-05T09:27:30.010Z"
+  },
+  {
+    "id": "cmmd9i95q0091qaiojyymssp3",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "term": "Antônio Conselheiro",
+    "definition": "Líder de Canudos",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.015Z",
+    "updatedAt": "2026-03-05T09:27:30.015Z"
+  },
+  {
+    "id": "cmmd9i95w009gqaio46okqxr2",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "term": "Vargas",
+    "definition": "Presidente revolucionário",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.020Z",
+    "updatedAt": "2026-03-05T09:27:30.020Z"
+  },
+  {
+    "id": "cmmd9i960009vqaio1dhw2ufl",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "term": "Petrobras",
+    "definition": "Criada por Vargas em 1953",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.025Z",
+    "updatedAt": "2026-03-05T09:27:30.025Z"
+  },
+  {
+    "id": "cmmd9i96500aaqaioygl3lxor",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "term": "Figueiredo",
+    "definition": "Último general-presidente",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.030Z",
+    "updatedAt": "2026-03-05T09:27:30.030Z"
+  },
+  {
+    "id": "cmmd9i96b00apqaiohhfepk95",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "term": "EUA",
+    "definition": "Líder do bloco capitalista",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.035Z",
+    "updatedAt": "2026-03-05T09:27:30.035Z"
+  },
+  {
+    "id": "cmmd9i96f00b4qaionrwt2p14",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "term": "OMC",
+    "definition": "Organização Mundial do Comércio",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.040Z",
+    "updatedAt": "2026-03-05T09:27:30.040Z"
+  },
+  {
+    "id": "cmmd9i96j00bjqaio438h8qef",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "term": "Ipiranga",
+    "definition": "Local do grito de Independência",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.044Z",
+    "updatedAt": "2026-03-05T09:27:30.044Z"
+  },
+  {
+    "id": "cmmd9i96n00byqaiodifcjykr",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "term": "Bolívia",
+    "definition": "País nomeado em honra a Bolívar",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.048Z",
+    "updatedAt": "2026-03-05T09:27:30.048Z"
+  },
+  {
+    "id": "cmmd9i96s00cdqaiovdz7541f",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "term": "Egito",
+    "definition": "Civilização do Nilo",
+    "order": 1,
+    "createdAt": "2026-03-05T09:27:30.053Z",
+    "updatedAt": "2026-03-05T09:27:30.053Z"
+  },
+  {
+    "id": "cmmdbhnqe000aqastcwexnixw",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "term": "Pau-brasil",
+    "definition": "Primeiro produto explorado",
+    "order": 1,
+    "createdAt": "2026-03-05T10:23:01.478Z",
+    "updatedAt": "2026-03-05T10:23:01.478Z"
+  },
+  {
+    "id": "cmmdbhnqn000pqastne5ug7hd",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "term": "João Goulart",
+    "definition": "Presidente deposto",
+    "order": 1,
+    "createdAt": "2026-03-05T10:23:01.487Z",
+    "updatedAt": "2026-03-05T10:23:01.487Z"
+  },
+  {
+    "id": "cmmdbhnqu0014qasthd9m5ovf",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "term": "Hitler",
+    "definition": "Líder nazista",
+    "order": 1,
+    "createdAt": "2026-03-05T10:23:01.494Z",
+    "updatedAt": "2026-03-05T10:23:01.494Z"
+  },
+  {
+    "id": "cmmdbibof000aqatgtrq0xzrg",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "term": "Gana",
+    "definition": "Primeira colônia independente",
+    "order": 1,
+    "createdAt": "2026-03-05T10:23:32.511Z",
+    "updatedAt": "2026-03-05T10:23:32.511Z"
+  },
+  {
+    "id": "cmmd9i924000bqaiojh7hxunp",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "term": "Neolítico",
+    "definition": "Período de agricultura e sedentarização",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.884Z",
+    "updatedAt": "2026-03-05T09:27:29.884Z"
+  },
+  {
+    "id": "cmmd9i92d000qqaiocjkg4soj",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "term": "Pajé",
+    "definition": "Líder espiritual indígena",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.893Z",
+    "updatedAt": "2026-03-05T09:27:29.893Z"
+  },
+  {
+    "id": "cmmd9i92k0015qaiowzh3bkwu",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "term": "Astecas",
+    "definition": "México central",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.901Z",
+    "updatedAt": "2026-03-05T09:27:29.901Z"
+  },
+  {
+    "id": "cmmd9i92s001kqaiox96k7yhu",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "term": "Egito",
+    "definition": "Rio Nilo",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.908Z",
+    "updatedAt": "2026-03-05T09:27:29.908Z"
+  },
+  {
+    "id": "cmmd9i92z001zqaiof47artdg",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "term": "Esparta",
+    "definition": "Sociedade militarizada",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.915Z",
+    "updatedAt": "2026-03-05T09:27:29.915Z"
+  },
+  {
+    "id": "cmmd9i936002eqaio1x4tr4vw",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "term": "Império",
+    "definition": "Governo de um imperador",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.922Z",
+    "updatedAt": "2026-03-05T09:27:29.922Z"
+  },
+  {
+    "id": "cmmd9i93c002tqaiotu7kg9aq",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "term": "Vassalo",
+    "definition": "Recebe terra em troca de fidelidade",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.928Z",
+    "updatedAt": "2026-03-05T09:27:29.928Z"
+  },
+  {
+    "id": "cmmd9i93i0038qaio8477yd9q",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "term": "Bispo",
+    "definition": "Líder de uma diocese",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.934Z",
+    "updatedAt": "2026-03-05T09:27:29.934Z"
+  },
+  {
+    "id": "cmmd9i93r003nqaior16bkchf",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "term": "Burguês",
+    "definition": "Morador do burgo",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.943Z",
+    "updatedAt": "2026-03-05T09:27:29.943Z"
+  },
+  {
+    "id": "cmmd9i93x0042qaio66jrff78",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "term": "Michelangelo",
+    "definition": "Davi, Capela Sistina",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.949Z",
+    "updatedAt": "2026-03-05T09:27:29.949Z"
+  },
+  {
+    "id": "cmmd9i943004hqaioss6v0fut",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "term": "Calvinismo",
+    "definition": "Doutrina de João Calvino",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.955Z",
+    "updatedAt": "2026-03-05T09:27:29.955Z"
+  },
+  {
+    "id": "cmmd9i948004wqaiobe2gvf6v",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "term": "Versalhes",
+    "definition": "Palácio do rei francês",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.961Z",
+    "updatedAt": "2026-03-05T09:27:29.961Z"
+  },
+  {
+    "id": "cmmd9i94d005bqaioktl561sa",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "term": "Espanha",
+    "definition": "Patrocinou Colombo",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.966Z",
+    "updatedAt": "2026-03-05T09:27:29.966Z"
+  },
+  {
+    "id": "cmmd9i94j005qqaiojvccglhq",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "term": "Rousseau",
+    "definition": "Soberania popular e vontade geral",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.972Z",
+    "updatedAt": "2026-03-05T09:27:29.972Z"
+  },
+  {
+    "id": "cmmd9i94p0065qaio0ac73ca0",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "term": "Igualdade",
+    "definition": "Princípio revolucionário",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.977Z",
+    "updatedAt": "2026-03-05T09:27:29.977Z"
+  },
+  {
+    "id": "cmmd9i94x006kqaio42zicdpi",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "term": "Aço",
+    "definition": "Material da Segunda Revolução",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.985Z",
+    "updatedAt": "2026-03-05T09:27:29.985Z"
+  },
+  {
+    "id": "cmmd9i952006zqaioegptt25x",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "term": "Bahia",
+    "definition": "Local da Conjuração Baiana",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.991Z",
+    "updatedAt": "2026-03-05T09:27:29.991Z"
+  },
+  {
+    "id": "cmmd9i957007eqaiopybwplcl",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "term": "Inglaterra",
+    "definition": "Protegeu a transferência da Corte",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:29.995Z",
+    "updatedAt": "2026-03-05T09:27:29.995Z"
+  },
+  {
+    "id": "cmmd9i95b007tqaios8bxq1du",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "term": "José Bonifácio",
+    "definition": "Patriarca da Independência",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.000Z",
+    "updatedAt": "2026-03-05T09:27:30.000Z"
+  },
+  {
+    "id": "cmmd9i95i0088qaio0q7ay7ug",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "term": "Abolição",
+    "definition": "Fim da escravidão",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.006Z",
+    "updatedAt": "2026-03-05T09:27:30.006Z"
+  },
+  {
+    "id": "cmmd9i95m008nqaio4gp18l0j",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "term": "Minas Gerais",
+    "definition": "Estado produtor de leite",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.011Z",
+    "updatedAt": "2026-03-05T09:27:30.011Z"
+  },
+  {
+    "id": "cmmd9i95r0092qaiomqg8zryz",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "term": "João Cândido",
+    "definition": "Almirante Negro da Chibata",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.015Z",
+    "updatedAt": "2026-03-05T09:27:30.015Z"
+  },
+  {
+    "id": "cmmd9i95w009hqaiog81wbrmd",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "term": "São Paulo",
+    "definition": "Revolução de 1932",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.020Z",
+    "updatedAt": "2026-03-05T09:27:30.020Z"
+  },
+  {
+    "id": "cmmd9i961009wqaioor1g69qg",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "term": "CSN",
+    "definition": "Companhia Siderúrgica Nacional",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.025Z",
+    "updatedAt": "2026-03-05T09:27:30.025Z"
+  },
+  {
+    "id": "cmmd9i96500abqaiob4i5nnxz",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "term": "Sarney",
+    "definition": "Primeiro presidente civil",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.030Z",
+    "updatedAt": "2026-03-05T09:27:30.030Z"
+  },
+  {
+    "id": "cmmd9i96b00aqqaioerxsfz73",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "term": "URSS",
+    "definition": "Líder do bloco socialista",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.035Z",
+    "updatedAt": "2026-03-05T09:27:30.035Z"
+  },
+  {
+    "id": "cmmd9i96f00b5qaiok3zhwt2x",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "term": "FMI",
+    "definition": "Fundo Monetário Internacional",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.040Z",
+    "updatedAt": "2026-03-05T09:27:30.040Z"
+  },
+  {
+    "id": "cmmd9i96k00bkqaioupyylsvn",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "term": "José Bonifácio",
+    "definition": "Patriarca da Independência",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.044Z",
+    "updatedAt": "2026-03-05T09:27:30.044Z"
+  },
+  {
+    "id": "cmmd9i96o00bzqaio85vlei3t",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "term": "Argentina",
+    "definition": "País de San Martín",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.048Z",
+    "updatedAt": "2026-03-05T09:27:30.048Z"
+  },
+  {
+    "id": "cmmd9i96s00ceqaio6av08u73",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "term": "África do Sul",
+    "definition": "País do apartheid",
+    "order": 2,
+    "createdAt": "2026-03-05T09:27:30.053Z",
+    "updatedAt": "2026-03-05T09:27:30.053Z"
+  },
+  {
+    "id": "cmmdbhnqe000bqastn40tpp88",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "term": "Açúcar",
+    "definition": "Principal produto colonial",
+    "order": 2,
+    "createdAt": "2026-03-05T10:23:01.479Z",
+    "updatedAt": "2026-03-05T10:23:01.479Z"
+  },
+  {
+    "id": "cmmdbhnqn000qqast7liu0pd0",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "term": "Castelo Branco",
+    "definition": "Primeiro presidente militar",
+    "order": 2,
+    "createdAt": "2026-03-05T10:23:01.488Z",
+    "updatedAt": "2026-03-05T10:23:01.488Z"
+  },
+  {
+    "id": "cmmdbhnqu0015qastzk0ro6w3",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "term": "Mussolini",
+    "definition": "Líder fascista italiano",
+    "order": 2,
+    "createdAt": "2026-03-05T10:23:01.495Z",
+    "updatedAt": "2026-03-05T10:23:01.495Z"
+  },
+  {
+    "id": "cmmdbibof000bqatg7p9hu9le",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "term": "África do Sul",
+    "definition": "País do apartheid",
+    "order": 2,
+    "createdAt": "2026-03-05T10:23:32.512Z",
+    "updatedAt": "2026-03-05T10:23:32.512Z"
+  },
+  {
+    "id": "cmmd9i924000cqaiojscf2d6t",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "term": "Pedra lascada",
+    "definition": "Tecnologia do Paleolítico",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.885Z",
+    "updatedAt": "2026-03-05T09:27:29.885Z"
+  },
+  {
+    "id": "cmmd9i92e000rqaiocx4pbrga",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "term": "Cacique",
+    "definition": "Líder político indígena",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.894Z",
+    "updatedAt": "2026-03-05T09:27:29.894Z"
+  },
+  {
+    "id": "cmmd9i92l0016qaiofwpmvxm3",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "term": "Incas",
+    "definition": "Peru e Andes",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.901Z",
+    "updatedAt": "2026-03-05T09:27:29.901Z"
+  },
+  {
+    "id": "cmmd9i92s001lqaiotsry4jxl",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "term": "Cuneiforme",
+    "definition": "Escrita suméria",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.909Z",
+    "updatedAt": "2026-03-05T09:27:29.909Z"
+  },
+  {
+    "id": "cmmd9i92z0020qaiowkombteh",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "term": "Platão",
+    "definition": "Filósofo, autor de A República",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.916Z",
+    "updatedAt": "2026-03-05T09:27:29.916Z"
+  },
+  {
+    "id": "cmmd9i936002fqaiofnqsep95",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "term": "Júlio César",
+    "definition": "General que cruzou o Rubicão",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.923Z",
+    "updatedAt": "2026-03-05T09:27:29.923Z"
+  },
+  {
+    "id": "cmmd9i93c002uqaiogad8nkb2",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "term": "Servo",
+    "definition": "Trabalhador presom à terra",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.928Z",
+    "updatedAt": "2026-03-05T09:27:29.928Z"
+  },
+  {
+    "id": "cmmd9i93i0039qaioldx9284w",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "term": "Monge",
+    "definition": "Vida religiosa em mosteiro",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.935Z",
+    "updatedAt": "2026-03-05T09:27:29.935Z"
+  },
+  {
+    "id": "cmmd9i93r003oqaiofkqicsb1",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "term": "Guilda",
+    "definition": "Associação de artesãos",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.944Z",
+    "updatedAt": "2026-03-05T09:27:29.944Z"
+  },
+  {
+    "id": "cmmd9i93x0043qaiozuieo9er",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "term": "Rafael",
+    "definition": "Escola de Atenas",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.950Z",
+    "updatedAt": "2026-03-05T09:27:29.950Z"
+  },
+  {
+    "id": "cmmd9i943004iqaiooaab6tid",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "term": "Anglicanismo",
+    "definition": "Igreja da Inglaterra",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.956Z",
+    "updatedAt": "2026-03-05T09:27:29.956Z"
+  },
+  {
+    "id": "cmmd9i949004xqaiob3hwi02x",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "term": "Metalismo",
+    "definition": "Acúmulo de ouro e prata",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.961Z",
+    "updatedAt": "2026-03-05T09:27:29.961Z"
+  },
+  {
+    "id": "cmmd9i94d005cqaiod523kfpr",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "term": "Bússola",
+    "definition": "Instrumento de orientação",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.966Z",
+    "updatedAt": "2026-03-05T09:27:29.966Z"
+  },
+  {
+    "id": "cmmd9i94k005rqaioyj93uybj",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "term": "Montesquieu",
+    "definition": "Separação dos três poderes",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.972Z",
+    "updatedAt": "2026-03-05T09:27:29.972Z"
+  },
+  {
+    "id": "cmmd9i94p0066qaiopppxbbpc",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "term": "Fraternidade",
+    "definition": "Terceiro lema revolucionário",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.977Z",
+    "updatedAt": "2026-03-05T09:27:29.977Z"
+  },
+  {
+    "id": "cmmd9i94x006lqaiofxnclzra",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "term": "Eletricidade",
+    "definition": "Energia da Segunda Revolução",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.986Z",
+    "updatedAt": "2026-03-05T09:27:29.986Z"
+  },
+  {
+    "id": "cmmd9i9520070qaioj6h08x95",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "term": "Tiradentes",
+    "definition": "Enforcado e esquartejado",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.991Z",
+    "updatedAt": "2026-03-05T09:27:29.991Z"
+  },
+  {
+    "id": "cmmd9i957007fqaiopeid3ns9",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "term": "Imprensa Régia",
+    "definition": "Primeira impressora do Brasil",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:29.996Z",
+    "updatedAt": "2026-03-05T09:27:29.996Z"
+  },
+  {
+    "id": "cmmd9i95c007uqaio62323g9z",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "term": "Andrada",
+    "definition": "Irmãos que apoiaram a Independência",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.000Z",
+    "updatedAt": "2026-03-05T09:27:30.000Z"
+  },
+  {
+    "id": "cmmd9i95i0089qaio88uk35qh",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "term": "Cafeicultores",
+    "definition": "Novo grupo de poder",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.006Z",
+    "updatedAt": "2026-03-05T09:27:30.006Z"
+  },
+  {
+    "id": "cmmd9i95m008oqaiob5dex57b",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "term": "Coronel",
+    "definition": "Chefe político local",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.011Z",
+    "updatedAt": "2026-03-05T09:27:30.011Z"
+  },
+  {
+    "id": "cmmd9i95r0093qaiov2vpqt1x",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "term": "Lampião",
+    "definition": "Cangaceiro famoso",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.015Z",
+    "updatedAt": "2026-03-05T09:27:30.015Z"
+  },
+  {
+    "id": "cmmd9i95w009iqaio95iqbizq",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "term": "Tenentes",
+    "definition": "Apoiadores da revolução",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.021Z",
+    "updatedAt": "2026-03-05T09:27:30.021Z"
+  },
+  {
+    "id": "cmmd9i961009xqaiomk58hn98",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "term": "DASP",
+    "definition": "Departamento administrativo",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.025Z",
+    "updatedAt": "2026-03-05T09:27:30.025Z"
+  },
+  {
+    "id": "cmmd9i96600acqaionmvfr3qr",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "term": "MDB",
+    "definition": "Partido de oposição",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.030Z",
+    "updatedAt": "2026-03-05T09:27:30.030Z"
+  },
+  {
+    "id": "cmmd9i96b00arqaiob9dj70lr",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "term": "Pacto de Varsóvia",
+    "definition": "Aliança militar soviética",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.036Z",
+    "updatedAt": "2026-03-05T09:27:30.036Z"
+  },
+  {
+    "id": "cmmd9i96g00b6qaio8nh7f58e",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "term": "Banco Mundial",
+    "definition": "Financiamento de desenvolvimento",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.040Z",
+    "updatedAt": "2026-03-05T09:27:30.040Z"
+  },
+  {
+    "id": "cmmd9i96k00blqaio28wcafps",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "term": "Andrada",
+    "definition": "Irmãos que apoiaram a Independência",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.044Z",
+    "updatedAt": "2026-03-05T09:27:30.044Z"
+  },
+  {
+    "id": "cmmd9i96o00c0qaioor1q25sl",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "term": "Chile",
+    "definition": "Golpe contra Allende",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.048Z",
+    "updatedAt": "2026-03-05T09:27:30.048Z"
+  },
+  {
+    "id": "cmmd9i96t00cfqaio9bil2ze3",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "term": "Nigéria",
+    "definition": "Maior população africana",
+    "order": 3,
+    "createdAt": "2026-03-05T09:27:30.053Z",
+    "updatedAt": "2026-03-05T09:27:30.053Z"
+  },
+  {
+    "id": "cmmdbhnqf000cqastgb6hhm5u",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "term": "Escravidão",
+    "definition": "Base do trabalho colonial",
+    "order": 3,
+    "createdAt": "2026-03-05T10:23:01.479Z",
+    "updatedAt": "2026-03-05T10:23:01.479Z"
+  },
+  {
+    "id": "cmmdbhnqo000rqastwv2can6s",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "term": "Médici",
+    "definition": "Período do milagre econômico",
+    "order": 3,
+    "createdAt": "2026-03-05T10:23:01.488Z",
+    "updatedAt": "2026-03-05T10:23:01.488Z"
+  },
+  {
+    "id": "cmmdbhnqv0016qastcsphbpa0",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "term": "Churchill",
+    "definition": "Primeiro-ministro britânico",
+    "order": 3,
+    "createdAt": "2026-03-05T10:23:01.495Z",
+    "updatedAt": "2026-03-05T10:23:01.495Z"
+  },
+  {
+    "id": "cmmdbibog000cqatg32no7dfz",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "term": "Argélia",
+    "definition": "Guerra de independência contra França",
+    "order": 3,
+    "createdAt": "2026-03-05T10:23:32.512Z",
+    "updatedAt": "2026-03-05T10:23:32.512Z"
+  },
+  {
+    "id": "cmmd9i925000dqaio2gftnh51",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "term": "Pedra polida",
+    "definition": "Tecnologia do Neolítico",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.885Z",
+    "updatedAt": "2026-03-05T09:27:29.885Z"
+  },
+  {
+    "id": "cmmd9i92e000sqaiouseqrksv",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "term": "Oca",
+    "definition": "Habitação indígena",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.895Z",
+    "updatedAt": "2026-03-05T09:27:29.895Z"
+  },
+  {
+    "id": "cmmd9i92l0017qaiofg3jwlwg",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "term": "Tenochtitlan",
+    "definition": "Capital asteca",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.901Z",
+    "updatedAt": "2026-03-05T09:27:29.901Z"
+  },
+  {
+    "id": "cmmd9i92t001mqaiohyjc0iqv",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "term": "Hieróglifos",
+    "definition": "Escrita egípcia",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.909Z",
+    "updatedAt": "2026-03-05T09:27:29.909Z"
+  },
+  {
+    "id": "cmmd9i92z0021qaiosuo9rpzf",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "term": "Sócrates",
+    "definition": "Pai da filosofia ocidental",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.916Z",
+    "updatedAt": "2026-03-05T09:27:29.916Z"
+  },
+  {
+    "id": "cmmd9i936002gqaio4t5u3u0t",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "term": "Augusto",
+    "definition": "Primeiro imperador romano",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.923Z",
+    "updatedAt": "2026-03-05T09:27:29.923Z"
+  },
+  {
+    "id": "cmmd9i93c002vqaioxyfccrpd",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "term": "Castelo",
+    "definition": "Fortaleza do senhor feudal",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.929Z",
+    "updatedAt": "2026-03-05T09:27:29.929Z"
+  },
+  {
+    "id": "cmmd9i93j003aqaioiw11fv8h",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "term": "Cruzada",
+    "definition": "Guerra santa",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.935Z",
+    "updatedAt": "2026-03-05T09:27:29.935Z"
+  },
+  {
+    "id": "cmmd9i93r003pqaiofbnvac9a",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "term": "Universidade",
+    "definition": "Instituição de ensino medieval",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.944Z",
+    "updatedAt": "2026-03-05T09:27:29.944Z"
+  },
+  {
+    "id": "cmmd9i93x0044qaioegza5062",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "term": "Medici",
+    "definition": "Família mecenas de Florença",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.950Z",
+    "updatedAt": "2026-03-05T09:27:29.950Z"
+  },
+  {
+    "id": "cmmd9i943004jqaiot4tqlgua",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "term": "Jesuítas",
+    "definition": "Missionários católicos",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.956Z",
+    "updatedAt": "2026-03-05T09:27:29.956Z"
+  },
+  {
+    "id": "cmmd9i949004yqaio774s56oi",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "term": "Protecionismo",
+    "definition": "Taxas sobre importações",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.961Z",
+    "updatedAt": "2026-03-05T09:27:29.961Z"
+  },
+  {
+    "id": "cmmd9i94e005dqaiosxzy256u",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "term": "Astrolábio",
+    "definition": "Instrumento de navegação",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.966Z",
+    "updatedAt": "2026-03-05T09:27:29.966Z"
+  },
+  {
+    "id": "cmmd9i94k005sqaioh8phnebk",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "term": "Locke",
+    "definition": "Direito natural à vida, liberdade e propriedade",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.972Z",
+    "updatedAt": "2026-03-05T09:27:29.972Z"
+  },
+  {
+    "id": "cmmd9i94p0067qaiomu0o6w0a",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "term": "Jacobinos",
+    "definition": "Grupo radical da Revolução",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.978Z",
+    "updatedAt": "2026-03-05T09:27:29.978Z"
+  },
+  {
+    "id": "cmmd9i94y006mqaiok1hbodez",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "term": "Inglaterra",
+    "definition": "Berço da Revolução Industrial",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.986Z",
+    "updatedAt": "2026-03-05T09:27:29.986Z"
+  },
+  {
+    "id": "cmmd9i9530071qaiod0n3m0su",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "term": "Cláudio Manoel",
+    "definition": "Inconfidente poeta",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.991Z",
+    "updatedAt": "2026-03-05T09:27:29.991Z"
+  },
+  {
+    "id": "cmmd9i957007gqaioq9ew3mjh",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "term": "Banco do Brasil",
+    "definition": "Criado em 1808",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:29.996Z",
+    "updatedAt": "2026-03-05T09:27:29.996Z"
+  },
+  {
+    "id": "cmmd9i95c007vqaioiqqgdoxm",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "term": "Brasil independente",
+    "definition": "Império do Brasil",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.001Z",
+    "updatedAt": "2026-03-05T09:27:30.001Z"
+  },
+  {
+    "id": "cmmd9i95i008aqaion6lg30or",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "term": "Exército",
+    "definition": "Instituição fortalecida pela guerra",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.007Z",
+    "updatedAt": "2026-03-05T09:27:30.007Z"
+  },
+  {
+    "id": "cmmd9i95n008pqaio0oe066te",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "term": "Curral eleitoral",
+    "definition": "Base de votos do coronel",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.011Z",
+    "updatedAt": "2026-03-05T09:27:30.011Z"
+  },
+  {
+    "id": "cmmd9i95r0094qaio6vjxbmqo",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "term": "Os Sertões",
+    "definition": "Livro de Euclides da Cunha",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.016Z",
+    "updatedAt": "2026-03-05T09:27:30.016Z"
+  },
+  {
+    "id": "cmmd9i95w009jqaiolog2regy",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "term": "PR",
+    "definition": "Estado de Vargas",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.021Z",
+    "updatedAt": "2026-03-05T09:27:30.021Z"
+  },
+  {
+    "id": "cmmd9i961009yqaiohokookx0",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "term": "PTB",
+    "definition": "Partido de Vargas",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.026Z",
+    "updatedAt": "2026-03-05T09:27:30.026Z"
+  },
+  {
+    "id": "cmmd9i96600adqaioncmgofck",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "term": "ARENA",
+    "definition": "Partido de apoio ao regime",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.030Z",
+    "updatedAt": "2026-03-05T09:27:30.030Z"
+  },
+  {
+    "id": "cmmd9i96b00asqaiopr0ce8wx",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "term": "Guerra da Coreia",
+    "definition": "1950-1953",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.036Z",
+    "updatedAt": "2026-03-05T09:27:30.036Z"
+  },
+  {
+    "id": "cmmd9i96g00b7qaio8b7qjwi4",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "term": "TLC",
+    "definition": "Tratado de Livre Comércio",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.040Z",
+    "updatedAt": "2026-03-05T09:27:30.040Z"
+  },
+  {
+    "id": "cmmd9i96k00bmqaiouuq5e7o2",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "term": "Brasil independente",
+    "definition": "Império do Brasil",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.044Z",
+    "updatedAt": "2026-03-05T09:27:30.044Z"
+  },
+  {
+    "id": "cmmd9i96p00c1qaio9lhjr55y",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "term": "Cuba",
+    "definition": "Ilha socialista",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.049Z",
+    "updatedAt": "2026-03-05T09:27:30.049Z"
+  },
+  {
+    "id": "cmmd9i96t00cgqaiopt6lua58",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "term": "Etiópia",
+    "definition": "Nunca foi colonizada",
+    "order": 4,
+    "createdAt": "2026-03-05T09:27:30.053Z",
+    "updatedAt": "2026-03-05T09:27:30.053Z"
+  },
+  {
+    "id": "cmmdbhnqf000dqast55febn7y",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "term": "Senhor de engenho",
+    "definition": "Proprietário do engenho",
+    "order": 4,
+    "createdAt": "2026-03-05T10:23:01.480Z",
+    "updatedAt": "2026-03-05T10:23:01.480Z"
+  },
+  {
+    "id": "cmmdbhnqo000sqastjox74o0a",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "term": "Geisel",
+    "definition": "Iniciou a abertura",
+    "order": 4,
+    "createdAt": "2026-03-05T10:23:01.489Z",
+    "updatedAt": "2026-03-05T10:23:01.489Z"
+  },
+  {
+    "id": "cmmdbhnqv0017qastersrdzrz",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "term": "Stalin",
+    "definition": "Líder soviético",
+    "order": 4,
+    "createdAt": "2026-03-05T10:23:01.495Z",
+    "updatedAt": "2026-03-05T10:23:01.495Z"
+  },
+  {
+    "id": "cmmdbibog000dqatg07y4fnnk",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "term": "Quênia",
+    "definition": "Revolta dos Mau-Mau",
+    "order": 4,
+    "createdAt": "2026-03-05T10:23:32.513Z",
+    "updatedAt": "2026-03-05T10:23:32.513Z"
+  },
+  {
+    "id": "cmmd9i925000eqaiofartyox8",
+    "lessonId": "cmmaxl85y0002ngam5d20q541",
+    "term": "Nômades",
+    "definition": "Povos que se deslocam constantemente",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.886Z",
+    "updatedAt": "2026-03-05T09:27:29.886Z"
+  },
+  {
+    "id": "cmmd9i92f000tqaio9wo91xe3",
+    "lessonId": "cmmaxl8610008ngamtbrksscf",
+    "term": "Caça e coleta",
+    "definition": "Modo de vida tradicional indígena",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.895Z",
+    "updatedAt": "2026-03-05T09:27:29.895Z"
+  },
+  {
+    "id": "cmmd9i92l0018qaio8mx6q1k2",
+    "lessonId": "cmmaxl863000engamn6k2v6sq",
+    "term": "Cusco",
+    "definition": "Capital inca",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.902Z",
+    "updatedAt": "2026-03-05T09:27:29.902Z"
+  },
+  {
+    "id": "cmmd9i92t001nqaio9u3dveu0",
+    "lessonId": "cmmaxl865000lngam2pqiauyx",
+    "term": "Faraó",
+    "definition": "Rei do Egito Antigo",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.910Z",
+    "updatedAt": "2026-03-05T09:27:29.910Z"
+  },
+  {
+    "id": "cmmd9i9300022qaiow8ac9pfu",
+    "lessonId": "cmmaxl867000tngamji05syvz",
+    "term": "Aristóteles",
+    "definition": "Mestre de Alexandre Magno",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.916Z",
+    "updatedAt": "2026-03-05T09:27:29.916Z"
+  },
+  {
+    "id": "cmmd9i937002hqaiojhis9o0z",
+    "lessonId": "cmmaxl8690011ngam6hpz4ytk",
+    "term": "Senado",
+    "definition": "Assembleia de patrícios",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.923Z",
+    "updatedAt": "2026-03-05T09:27:29.923Z"
+  },
+  {
+    "id": "cmmd9i93d002wqaioc47m0v11",
+    "lessonId": "cmmaxl86b001angamvh0j1v02",
+    "term": "Bailio",
+    "definition": "Administrador do feudo",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.929Z",
+    "updatedAt": "2026-03-05T09:27:29.929Z"
+  },
+  {
+    "id": "cmmd9i93j003bqaioehvvc639",
+    "lessonId": "cmmaxl86c001ingam0vifyl15",
+    "term": "Dízimo",
+    "definition": "Imposto à Igreja",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.935Z",
+    "updatedAt": "2026-03-05T09:27:29.935Z"
+  },
+  {
+    "id": "cmmd9i93s003qqaioyn3ipyjy",
+    "lessonId": "cmmaxl86e001qngamxbf4gzlm",
+    "term": "Peste Negra",
+    "definition": "Epidemia que matou 1/3 da Europa",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.944Z",
+    "updatedAt": "2026-03-05T09:27:29.944Z"
+  },
+  {
+    "id": "cmmd9i93y0045qaiofviao7b2",
+    "lessonId": "cmmaxl86g001zngamub3wlqgj",
+    "term": "Florença",
+    "definition": "Berço do Renascimento",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.950Z",
+    "updatedAt": "2026-03-05T09:27:29.950Z"
+  },
+  {
+    "id": "cmmd9i944004kqaioqoovzroe",
+    "lessonId": "cmmaxl86i0027ngamc0f3af45",
+    "term": "Indulgência",
+    "definition": "Venda de perdão de pecados",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.956Z",
+    "updatedAt": "2026-03-05T09:27:29.956Z"
+  },
+  {
+    "id": "cmmd9i949004zqaioapxeek1q",
+    "lessonId": "cmmaxl86j002fngam6irbhu13",
+    "term": "Monopólio",
+    "definition": "Controle estatal de comércio",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.962Z",
+    "updatedAt": "2026-03-05T09:27:29.962Z"
+  },
+  {
+    "id": "cmmd9i94e005eqaiorn68j8g9",
+    "lessonId": "cmmaxl86l002nngam70c7ob6t",
+    "term": "Índias",
+    "definition": "Destino das navegações",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.967Z",
+    "updatedAt": "2026-03-05T09:27:29.967Z"
+  },
+  {
+    "id": "cmmd9i94k005tqaiohj9l4htc",
+    "lessonId": "cmmaxl86o002wngam4k2l5y4c",
+    "term": "Adam Smith",
+    "definition": "Pai do liberalismo econômico",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.972Z",
+    "updatedAt": "2026-03-05T09:27:29.972Z"
+  },
+  {
+    "id": "cmmd9i94p0068qaiojagqh5hr",
+    "lessonId": "cmmaxl86p0034ngamj7zwvl9z",
+    "term": "Girondinos",
+    "definition": "Grupo moderado da Revolução",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.978Z",
+    "updatedAt": "2026-03-05T09:27:29.978Z"
+  },
+  {
+    "id": "cmmd9i94y006nqaioa3nqb22c",
+    "lessonId": "cmmaxl86r003cngam2nbsnkoh",
+    "term": "Fábrica",
+    "definition": "Local de produção industrial",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.987Z",
+    "updatedAt": "2026-03-05T09:27:29.987Z"
+  },
+  {
+    "id": "cmmd9i9530072qaioieapkel6",
+    "lessonId": "cmmaxlgrs000angc1ygeyfht5",
+    "term": "D. Maria I",
+    "definition": "Rainha louca de Portugal",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.991Z",
+    "updatedAt": "2026-03-05T09:27:29.991Z"
+  },
+  {
+    "id": "cmmd9i958007hqaiocipxwm78",
+    "lessonId": "cmmaxlgrv000ingc11mblw2t0",
+    "term": "Reino Unido",
+    "definition": "Status do Brasil em 1815",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:29.996Z",
+    "updatedAt": "2026-03-05T09:27:29.996Z"
+  },
+  {
+    "id": "cmmd9i95d007wqaio9jmslwxh",
+    "lessonId": "cmmaxlgrx000rngc1t6tpr14k",
+    "term": "Portugal",
+    "definition": "Ex-metrópole",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.002Z",
+    "updatedAt": "2026-03-05T09:27:30.002Z"
+  },
+  {
+    "id": "cmmd9i95j008bqaio3awmzusl",
+    "lessonId": "cmmaxlgrz000zngc1aticb6f9",
+    "term": "República",
+    "definition": "Regime que sucedeu o Império",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.007Z",
+    "updatedAt": "2026-03-05T09:27:30.007Z"
+  },
+  {
+    "id": "cmmd9i95n008qqaiotcoggxor",
+    "lessonId": "cmmaxlgs10018ngc1b83ah8jv",
+    "term": "Oligarquia",
+    "definition": "Governo de poucas famílias",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.011Z",
+    "updatedAt": "2026-03-05T09:27:30.011Z"
+  },
+  {
+    "id": "cmmd9i95r0095qaio09suh37z",
+    "lessonId": "cmmaxlgs3001gngc1xa12f62z",
+    "term": "Oswaldo Cruz",
+    "definition": "Campanha da vacina",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.016Z",
+    "updatedAt": "2026-03-05T09:27:30.016Z"
+  },
+  {
+    "id": "cmmd9i95x009kqaiodtcwd5kq",
+    "lessonId": "cmmaxlgs5001pngc1vgjqzghm",
+    "term": "Junta Militar",
+    "definition": "Governo provisório",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.021Z",
+    "updatedAt": "2026-03-05T09:27:30.021Z"
+  },
+  {
+    "id": "cmmd9i961009zqaio48ad4trw",
+    "lessonId": "cmmaxlgs7001xngc1ya5z9cdc",
+    "term": "Queremismo",
+    "definition": "Movimento por Constituinte",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.026Z",
+    "updatedAt": "2026-03-05T09:27:30.026Z"
+  },
+  {
+    "id": "cmmd9i96600aeqaioofyz5dmr",
+    "lessonId": "cmmaxlgsb002engc1v2sej159",
+    "term": "Colégio Eleitoral",
+    "definition": "Sistema de eleição indireta",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.031Z",
+    "updatedAt": "2026-03-05T09:27:30.031Z"
+  },
+  {
+    "id": "cmmd9i96c00atqaiogjort6ny",
+    "lessonId": "cmmaxlgse002vngc11os40683",
+    "term": "Guerra do Vietnã",
+    "definition": "1955-1975",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.036Z",
+    "updatedAt": "2026-03-05T09:27:30.036Z"
+  },
+  {
+    "id": "cmmd9i96g00b8qaio3ee7brpi",
+    "lessonId": "cmmaxlgsg0033ngc12ljoy584",
+    "term": "BRICS",
+    "definition": "Brasil, Rússia, Índia, China, África do Sul",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.041Z",
+    "updatedAt": "2026-03-05T09:27:30.041Z"
+  },
+  {
+    "id": "cmmd9i96k00bnqaio2xo12hff",
+    "lessonId": "cmmaxlgsi003cngc1pn97oxfg",
+    "term": "Portugal",
+    "definition": "Ex-metrópole",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.045Z",
+    "updatedAt": "2026-03-05T09:27:30.045Z"
+  },
+  {
+    "id": "cmmd9i96p00c2qaioar8769sf",
+    "lessonId": "cmmaxlgsk003ingc1lzofkw0l",
+    "term": "México",
+    "definition": "Revolução de 1910",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.050Z",
+    "updatedAt": "2026-03-05T09:27:30.050Z"
+  },
+  {
+    "id": "cmmd9i96t00chqaio78zli3ky",
+    "lessonId": "cmmaxlgsl003pngc1wm9cm7me",
+    "term": "Ruanda",
+    "definition": "Genocídio de 1994",
+    "order": 5,
+    "createdAt": "2026-03-05T09:27:30.054Z",
+    "updatedAt": "2026-03-05T09:27:30.054Z"
+  },
+  {
+    "id": "cmmdbhnqg000eqasthbe4ocwj",
+    "lessonId": "cmmaxlgrp0002ngc14f3zt23q",
+    "term": "Zumbi dos Palmares",
+    "definition": "Líder quilombola",
+    "order": 5,
+    "createdAt": "2026-03-05T10:23:01.480Z",
+    "updatedAt": "2026-03-05T10:23:01.480Z"
+  },
+  {
+    "id": "cmmdbhnqp000tqasty1ujfj6y",
+    "lessonId": "cmmaxlgs90026ngc1yie4dicb",
+    "term": "Figueiredo",
+    "definition": "Último general-presidente",
+    "order": 5,
+    "createdAt": "2026-03-05T10:23:01.489Z",
+    "updatedAt": "2026-03-05T10:23:01.489Z"
+  },
+  {
+    "id": "cmmdbhnqv0018qastos4el1zf",
+    "lessonId": "cmmaxlgsd002nngc12ool3tzo",
+    "term": "Eixo",
+    "definition": "Alemanha, Itália e Japão",
+    "order": 5,
+    "createdAt": "2026-03-05T10:23:01.496Z",
+    "updatedAt": "2026-03-05T10:23:01.496Z"
+  },
+  {
+    "id": "cmmdbiboh000eqatgc1v0gko9",
+    "lessonId": "cmmaxlgsm003vngc1f4qcjczl",
+    "term": "Congo",
+    "definition": "Crise pós-independência",
+    "order": 5,
+    "createdAt": "2026-03-05T10:23:32.513Z",
+    "updatedAt": "2026-03-05T10:23:32.513Z"
+  }
+]
